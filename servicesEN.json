@@ -1,0 +1,3509 @@
+[
+  {
+    "name": "ChatGPT",
+    "type": "Text Generation",
+    "description": "AI model for generating human-like text.",
+    "link": "https://chat.openai.com/",
+    "price": "Free"
+  },
+  {
+    "name": "DALL·E 2",
+    "type": "Image Generation",
+    "description": "Model that creates images based on text descriptions.",
+    "link": "https://openai.com/dall-e-2/",
+    "price": "Free"
+  },
+  {
+    "name": "Midjourney",
+    "type": "Image Generation",
+    "description": "Service for creating images with artificial intelligence.",
+    "link": "https://www.midjourney.com/",
+    "price": "$10 per month"
+  },
+  {
+    "name": "Synthesia",
+    "type": "Video Generation",
+    "description": "Platform for creating videos with AI avatars based on text.",
+    "link": "https://www.synthesia.io/",
+    "price": "$30 per month"
+  },
+  {
+    "name": "Jasper",
+    "type": "Content Generation",
+    "description": "Tool for creating marketing content with AI.",
+    "link": "https://www.jasper.ai/",
+    "price": "$29 per month"
+  },
+  {
+    "name": "Looka",
+    "type": "Logo Generation",
+    "description": "Service for creating logos using artificial intelligence.",
+    "link": "https://looka.com/",
+    "price": "$20 one-time"
+  },
+  {
+    "name": "Replika",
+    "type": "Virtual Companion",
+    "description": "AI friend for conversation and support.",
+    "link": "https://replika.ai/",
+    "price": "Free with a premium subscription for $8 per month"
+  },
+  {
+    "name": "Lumen5",
+    "type": "Video Generation",
+    "description": "Tool for creating videos from text.",
+    "link": "https://lumen5.com/",
+    "price": "Free with premium plans starting at $19 per month"
+  },
+  {
+    "name": "Copy.ai",
+    "type": "Text Generation",
+    "description": "Tool for creating marketing texts with AI.",
+    "link": "https://www.copy.ai/",
+    "price": "Free with premium plans starting at $35 per month"
+  },
+  {
+    "name": "DeepL",
+    "type": "Text Translation",
+    "description": "AI service for high-quality text translations.",
+    "link": "https://www.deepl.com/",
+    "price": "Free with premium plans starting at $6.99 per month"
+  },
+  {
+    "name": "Grammarly",
+    "type": "Grammar Checking",
+    "description": "Tool for checking grammar and text style.",
+    "link": "https://www.grammarly.com/",
+    "price": "Free with premium plans starting at $12 per month"
+  },
+  {
+    "name": "Descript",
+    "type": "Audio and Video Editing",
+    "description": "Platform for editing audio and video with AI features.",
+    "link": "https://www.descript.com/",
+    "price": "Free with premium plans starting at $12 per month"
+  },
+  {
+    "name": "Runway ML",
+    "type": "Image and Video Generation",
+    "description": "Platform for creating multimedia content using AI.",
+    "link": "https://runwayml.com/",
+    "price": "Free with premium plans starting at $15 per month"
+  },
+  {
+    "name": "AIVA",
+    "type": "Music Generation",
+    "description": "AI composer for creating original music tracks.",
+    "link": "https://www.aiva.ai/",
+    "price": "Free with premium plans starting at $15 per month"
+  },
+  {
+    "name": "Scribble Diffusion",
+    "type": "Image Generation",
+    "description": "Service that turns your sketches into detailed images using AI.",
+    "link": "https://scribblediffusion.com/",
+    "price": "Free"
+  },
+  {
+    "name": "Soundraw",
+    "type": "Music Generation",
+    "description": "Tool for creating unique music tracks with AI.",
+    "link": "https://soundraw.io/",
+    "price": "Free with premium plans starting at $19.99 per month"
+  },
+  {
+    "name": "Remove.bg",
+    "type": "Image Processing",
+    "description": "Service for removing backgrounds from images using AI.",
+    "link": "https://www.remove.bg/",
+    "price": "Free with premium plans starting at $0.20 per image"
+  },
+  {
+    "name": "DeepArt",
+    "type": "Image Processing",
+    "description": "Turns your photos into artwork using AI.",
+    "link": "https://deepart.io/",
+    "price": "Free with premium options"
+  },
+  {
+    "name": "Runway",
+    "type": "Video Generation",
+    "description": "Tool for creating and editing videos based on artificial intelligence.",
+    "link": "https://runwayml.com/",
+    "price": "Free / from $15 per month"
+  },
+  {
+    "name": "Kaiber",
+    "type": "Video Generation",
+    "description": "Create videos based on text prompts and images.",
+    "link": "https://www.kaiber.ai/",
+    "price": "Free / from $5 per month"
+  },
+  {
+    "name": "DeepBrain AI",
+    "type": "Video Generation",
+    "description": "Generate videos with AI avatars and text-to-speech narration.",
+    "link": "https://www.deepbrain.io/",
+    "price": "From $30 per month"
+  },
+  {
+    "name": "Pika Labs",
+    "type": "Video Generation",
+    "description": "Generate animated content using AI.",
+    "link": "https://pika.art/",
+    "price": "Free"
+  },
+  {
+    "name": "Adobe Firefly",
+    "type": "Image Generation",
+    "description": "Generate AI images and edit them using text prompts.",
+    "link": "https://www.adobe.com/sensei/generative-ai/firefly.html",
+    "price": "Included in Adobe subscription"
+  },
+  {
+    "name": "Leonardo AI",
+    "type": "Image Generation",
+    "description": "Tool for creating illustrations, concept art, and textures.",
+    "link": "https://leonardo.ai/",
+    "price": "Free / from $10 per month"
+  },
+  {
+    "name": "Deep Dream Generator",
+    "type": "Image Generation",
+    "description": "Tool for creating artistic images based on neural networks.",
+    "link": "https://deepdreamgenerator.com/",
+    "price": "Free / from $9 per month"
+  },
+  {
+    "name": "Dream by Wombo",
+    "type": "Image Generation",
+    "description": "Create AI art with text prompts.",
+    "link": "https://dream.ai/",
+    "price": "Free / from $4 per month"
+  },
+  {
+    "name": "DALL·E",
+    "type": "Image Generation",
+    "description": "Generate unique images based on text descriptions.",
+    "link": "https://openai.com/dall-e",
+    "price": "From $15 for 115 generations"
+  },
+  {
+    "name": "Pixray",
+    "type": "Image Generation",
+    "description": "AI tool for artists and designers to create unique paintings.",
+    "link": "https://pixray.gob.io/",
+    "price": "Free"
+  },
+  {
+    "name": "Runway Gen-2",
+    "type": "Video Generation",
+    "description": "AI video generation without using real footage.",
+    "link": "https://runwayml.com/gen2",
+    "price": "Free / from $12 per month"
+  },
+  {
+    "name": "Claude",
+    "type": "Text Generation",
+    "description": "AI model for working with texts, similar to ChatGPT.",
+    "link": "https://www.anthropic.com/claude",
+    "price": "Free / from $20 per month"
+  },
+  {
+    "name": "Bard",
+    "type": "Text Generation",
+    "description": "AI chatbot from Google for searching and writing texts.",
+    "link": "https://bard.google.com/",
+    "price": "Free"
+  },
+  {
+    "name": "QuillBot",
+    "type": "Text Generation",
+    "description": "Tool for paraphrasing, grammar checking, and content creation.",
+    "link": "https://quillbot.com/",
+    "price": "Free / from $10 per month"
+  },
+  {
+    "name": "Hemingway Editor",
+    "type": "Text Editing",
+    "description": "AI tool to improve the style and readability of texts.",
+    "link": "https://hemingwayapp.com/",
+    "price": "Free"
+  },
+  {
+    "name": "Wordtune",
+    "type": "Text Editing",
+    "description": "Tool for improving and paraphrasing texts.",
+    "link": "https://www.wordtune.com/",
+    "price": "Free / from $9 per month"
+  },
+  {
+    "name": "Writesonic",
+    "type": "Content Generation",
+    "description": "AI service for creating marketing content.",
+    "link": "https://writesonic.com/",
+    "price": "Free / from $12 per month"
+  },
+  {
+    "name": "Frase.io",
+    "type": "Content Generation",
+    "description": "Tool for SEO text optimization and content creation.",
+    "link": "https://www.frase.io/",
+    "price": "From $14 per month"
+  },
+  {
+    "name": "SurferSEO",
+    "type": "SEO Analytics",
+    "description": "AI tool for SEO analysis and content optimization.",
+    "link": "https://surferseo.com/",
+    "price": "From $49 per month"
+  },
+  {
+    "name": "CopyMatic",
+    "type": "Content Generation",
+    "description": "AI tool for creating advertising texts.",
+    "link": "https://www.copymatic.ai/",
+    "price": "Free / from $9 per month"
+  },
+  {
+    "name": "Rytr",
+    "type": "Content Generation",
+    "description": "AI assistant for writing marketing texts and articles.",
+    "link": "https://rytr.me/",
+    "price": "Free / from $9 per month"
+  },
+  {
+    "name": "Pictory",
+    "type": "Video Generation",
+    "description": "AI tool for automatically generating videos from articles.",
+    "link": "https://pictory.ai/",
+    "price": "From $19 per month"
+  },
+  {
+    "name": "Murf.ai",
+    "type": "Voice Generation",
+    "description": "AI voiceover of text with professional voices.",
+    "link": "https://murf.ai/",
+    "price": "Free / from $19 per month"
+  },
+  {
+    "name": "Play.ht",
+    "type": "Voice Generation",
+    "description": "Converting text to natural-sounding voice.",
+    "link": "https://play.ht/",
+    "price": "From $14 per month"
+  },
+  {
+    "name": "ElevenLabs",
+    "type": "Voice Generation",
+    "description": "AI voice synthesizer with high accuracy in tonal delivery.",
+    "link": "https://elevenlabs.io/",
+    "price": "Free / from $5 per month"
+  },
+  {
+    "name": "Fotor",
+    "type": "Image Generation",
+    "description": "AI editor for creating and editing images.",
+    "link": "https://www.fotor.com/",
+    "price": "Free / from $9 per month"
+  },
+  {
+    "name": "HeyGen",
+    "type": "Video Generation",
+    "description": "AI tool for creating video avatars.",
+    "link": "https://www.heygen.com/",
+    "price": "From $24 per month"
+  },
+  {
+    "name": "Voicify AI",
+    "type": "Voice Generation",
+    "description": "Converting text to voice messages.",
+    "link": "https://www.voicify.ai/",
+    "price": "Free / from $10 per month"
+  },
+  {
+    "name": "Krisp",
+    "type": "Audio Processing",
+    "description": "AI filter for removing background noise in calls.",
+    "link": "https://krisp.ai/",
+    "price": "Free / from $12 per month"
+  },
+  {
+    "name": "D-ID",
+    "type": "Animated Video Generation",
+    "description": "Converting images into animated videos.",
+    "link": "https://www.d-id.com/",
+    "price": "From $5 per month"
+  },
+  {
+    "name": "Cleanup.pictures",
+    "type": "Image Editing",
+    "description": "Tool for removing objects from photos.",
+    "link": "https://cleanup.pictures/",
+    "price": "Free / from $5 per month"
+  },
+  {
+    "name": "Stable Diffusion",
+    "type": "Image Generation",
+    "description": "AI model for creating realistic images.",
+    "link": "https://stablediffusionweb.com/",
+    "price": "Free"
+  },
+  {
+    "name": "Stockimg AI",
+    "type": "Image Generation",
+    "description": "AI generator for stock photos.",
+    "link": "https://stockimg.ai/",
+    "price": "Free / from $9 per month"
+  },
+  {
+    "name": "Replit AI",
+    "type": "Programming",
+    "description": "AI assistant for developers on Replit.",
+    "link": "https://replit.com/",
+    "price": "Free / from $20 per month"
+  },
+  {
+    "name": "GitHub Copilot",
+    "type": "Programming",
+    "description": "AI tool for code autocompletion.",
+    "link": "https://github.com/features/copilot",
+    "price": "From $10 per month"
+  },
+  {
+    "name": "Codeium",
+    "type": "Programming",
+    "description": "Free alternative to GitHub Copilot.",
+    "link": "https://www.codeium.com/",
+    "price": "Free"
+  },
+  {
+    "name": "Kaiber AI",
+    "type": "Video Generation",
+    "description": "AI video generator based on images or text descriptions.",
+    "link": "https://www.kaiber.ai/",
+    "price": "Free / from $5 per month"
+  },
+  {
+    "name": "Steve AI",
+    "type": "Video Generation",
+    "description": "Automatic video creation from text scripts.",
+    "link": "https://www.steve.ai/",
+    "price": "From $15 per month"
+  },
+  {
+    "name": "Tome AI",
+    "type": "Presentation Generation",
+    "description": "AI tool for creating interactive presentations.",
+    "link": "https://tome.app/",
+    "price": "Free / from $10 per month"
+  },
+  {
+    "name": "Beautiful AI",
+    "type": "Presentation Generation",
+    "description": "AI platform for automatic presentation creation.",
+    "link": "https://www.beautiful.ai/",
+    "price": "From $12 per month"
+  },
+  {
+    "name": "Gamma AI",
+    "type": "Presentation Generation",
+    "description": "Automatic slide creation with AI.",
+    "link": "https://gamma.app/",
+    "price": "Free / from $10 per month"
+  },
+  {
+    "name": "Designs AI",
+    "type": "Content Generation",
+    "description": "Tool for creating logos, videos, and designs.",
+    "link": "https://designs.ai/",
+    "price": "From $19 per month"
+  },
+  {
+    "name": "Lex.page",
+    "type": "Text Generation",
+    "description": "AI tool for creating text documents.",
+    "link": "https://lex.page/",
+    "price": "Free"
+  },
+  {
+    "name": "Typewise",
+    "type": "Text Generation",
+    "description": "AI keyboard to improve text writing productivity.",
+    "link": "https://www.typewise.app/",
+    "price": "Free / from $1.99 per month"
+  },
+  {
+    "name": "ChatGPT Plus",
+    "type": "Text Generation",
+    "description": "Enhanced version of ChatGPT with access to new features.",
+    "link": "https://openai.com/chatgpt/",
+    "price": "$20 per month"
+  },
+  {
+    "name": "Claude AI",
+    "type": "Text Generation",
+    "description": "Alternative AI chatbot with improved contextual understanding.",
+    "link": "https://www.anthropic.com/",
+    "price": "Free / from $20 per month"
+  },
+  {
+    "name": "Perplexity AI",
+    "type": "Text Generation",
+    "description": "AI assistant for real-time answers.",
+    "link": "https://www.perplexity.ai/",
+    "price": "Free / from $20 per month"
+  },
+  {
+    "name": "Fireflies AI",
+    "type": "Voice Processing",
+    "description": "Automatic transcription and analysis of voice calls.",
+    "link": "https://fireflies.ai/",
+    "price": "Free / from $10 per month"
+  },
+  {
+    "name": "Otter.ai",
+    "type": "Voice Processing",
+    "description": "AI tool for automatic transcription of meetings.",
+    "link": "https://otter.ai/",
+    "price": "Free / from $8 per month"
+  },
+  {
+    "name": "Replicate",
+    "type": "AI Model Generation",
+    "description": "Tool for running and testing AI models.",
+    "link": "https://replicate.com/",
+    "price": "From $7 per month"
+  },
+  {
+    "name": "AI Picasso",
+    "type": "Image Generation",
+    "description": "AI tool for creating digital art.",
+    "link": "https://www.aipicasso.app/",
+    "price": "Free / from $5 per month"
+  },
+  {
+    "name": "Clipdrop",
+    "type": "Image Processing",
+    "description": "Tool for background removal and photo enhancement.",
+    "link": "https://clipdrop.co/",
+    "price": "Free / from $7 per month"
+  },
+  {
+    "name": "Piktochart",
+    "type": "Graphic Generation",
+    "description": "AI tool for creating infographics and presentations.",
+    "link": "https://piktochart.com/",
+    "price": "Free / from $12 per month"
+  },
+  {
+    "name": "Designhill AI",
+    "type": "Logo Generation",
+    "description": "AI platform for creating logos and branding materials.",
+    "link": "https://www.designhill.com/tools/logo-maker",
+    "price": "Free / from $20 per logo"
+  },
+  {
+    "name": "Crello",
+    "type": "Graphic Generation",
+    "description": "Tool for creating graphic materials with AI.",
+    "link": "https://crello.com/",
+    "price": "Free / from $9.99 per month"
+  },
+  {
+    "name": "Smartly.io",
+    "type": "Marketing",
+    "description": "AI platform for automating advertising and marketing campaigns.",
+    "link": "https://www.smartly.io/",
+    "price": "Custom pricing"
+  },
+  {
+    "name": "Quora Poe",
+    "type": "Content Generation",
+    "description": "AI for generating answers to user questions.",
+    "link": "https://poe.com/",
+    "price": "Free"
+  },
+  {
+    "name": "Slyce",
+    "type": "Image Recognition",
+    "description": "AI for automatic product scanning and recognition from images.",
+    "link": "https://www.slyce.it/",
+    "price": "Custom pricing"
+  },
+  {
+    "name": "Artbreeder",
+    "type": "Image Generation",
+    "description": "AI platform for creating art and manipulating images.",
+    "link": "https://www.artbreeder.com/",
+    "price": "Free / from $8 per month"
+  },
+  {
+    "name": "BigML",
+    "type": "Machine Learning",
+    "description": "AI platform for building and training machine learning models.",
+    "link": "https://bigml.com/",
+    "price": "Free / from $50 per month"
+  },
+  {
+    "name": "Wit.ai",
+    "type": "Language Processing",
+    "description": "Interface for creating conversational apps and chatbots.",
+    "link": "https://wit.ai/",
+    "price": "Free"
+  },
+  {
+    "name": "Peltarion",
+    "type": "Machine Learning",
+    "description": "AI platform for building, training, and deploying deep neural networks.",
+    "link": "https://peltarion.com/",
+    "price": "Custom pricing"
+  },
+  {
+    "name": "Veeva Vault",
+    "type": "Data Management",
+    "description": "AI for data management in pharmaceutical and biotechnology companies.",
+    "link": "https://www.veeva.com/",
+    "price": "Custom pricing"
+  },
+  {
+    "name": "MonkeyLearn",
+    "type": "Language Processing",
+    "description": "AI tool for text analysis and automatic classification.",
+    "link": "https://monkeylearn.com/",
+    "price": "Free / from $299 per month"
+  },
+  {
+    "name": "CopySmith",
+    "type": "Content Generation",
+    "description": "AI tool for creating marketing text and copywriting.",
+    "link": "https://copysmith.ai/",
+    "price": "Free / from $19 per month"
+  },
+  {
+    "name": "Peppertype",
+    "type": "Content Generation",
+    "description": "AI platform for creating texts for various marketing purposes.",
+    "link": "https://www.peppertype.ai/",
+    "price": "Free / from $35 per month"
+  },
+  {
+    "name": "Scikit-learn",
+    "type": "Machine Learning",
+    "description": "Open-source software for data analysis and machine learning model creation.",
+    "link": "https://scikit-learn.org/",
+    "price": "Free"
+  },
+  {
+    "name": "DeepL Translator",
+    "type": "Translation",
+    "description": "AI tool for automatic translation of text from one language to another.",
+    "link": "https://www.deepl.com/",
+    "price": "Free / from $5.99 per month"
+  },
+  {
+    "name": "Tractian",
+    "type": "Monitoring",
+    "description": "AI for monitoring and predicting technical issues in equipment.",
+    "link": "https://www.tractian.com/",
+    "price": "Custom pricing"
+  },
+  {
+    "name": "Outgrow",
+    "type": "Marketing",
+    "description": "AI for creating interactive calculators and chatbots for businesses.",
+    "link": "https://outgrow.co/",
+    "price": "From $14 per month"
+  },
+  {
+    "name": "DeepDreamGenerator",
+    "type": "Image Generation",
+    "description": "Tool for creating artistic images based on neural networks.",
+    "link": "https://deepdreamgenerator.com/",
+    "price": "Free / from $19 per month"
+  },
+  {
+    "name": "Notion AI",
+    "type": "Language Processing",
+    "description": "AI for automatic note creation, editing, and organization in Notion.",
+    "link": "https://www.notion.so/",
+    "price": "Free / from $8 per month"
+  },
+  {
+    "name": "Framer AI",
+    "type": "Design",
+    "description": "AI tool for quickly creating websites and UI/UX designs.",
+    "link": "https://www.framer.com/",
+    "price": "Free / from $12 per month"
+  },
+  {
+    "name": "Google AI",
+    "type": "Machine Learning",
+    "description": "Platform for building and training machine learning models from Google.",
+    "link": "https://ai.google/",
+    "price": "Free / custom pricing"
+  },
+  {
+    "name": "Clarity",
+    "type": "Data Analysis",
+    "description": "AI for automatic analysis and understanding of website data.",
+    "link": "https://clarity.microsoft.com/",
+    "price": "Free"
+  },
+  {
+    "name": "Neural.love",
+    "type": "Image Generation",
+    "description": "AI for creating and enhancing images and photos.",
+    "link": "https://neural.love/",
+    "price": "Free / from $19 per month"
+  },
+  {
+    "name": "Amper Music",
+    "type": "Music Generation",
+    "description": "AI for creating music based on style and mood selection.",
+    "link": "https://www.ampermusic.com/",
+    "price": "Free / from $9.99 per month"
+  },
+  {
+    "name": "HourOne",
+    "type": "Video Generation",
+    "description": "AI for creating videos with real people based on text.",
+    "link": "https://www.hourone.ai/",
+    "price": "Custom pricing"
+  },
+  {
+    "name": "Magisto",
+    "type": "Video Generation",
+    "description": "AI for automatically creating videos from provided materials.",
+    "link": "https://www.magisto.com/",
+    "price": "Free / from $4.99 per month"
+  },
+  {
+    "name": "Zapier",
+    "type": "Automation",
+    "description": "AI for automating workflows and integrating applications.",
+    "link": "https://zapier.com/",
+    "price": "Free / from $19.99 per month"
+  },
+  {
+    "name": "Lobster",
+    "type": "Data Analysis",
+    "description": "AI for collecting and analyzing data from various online sources.",
+    "link": "https://www.lobster.io/",
+    "price": "Custom pricing"
+  },
+  {
+    "name": "DeepfakeLab",
+    "type": "Video Generation",
+    "description": "AI for creating deepfake videos and fake video content.",
+    "link": "https://deepfake-lab.com/",
+    "price": "Custom pricing"
+  },
+  {
+    "name": "Pexels AI",
+    "type": "Image Generation",
+    "description": "AI for creating high-quality images based on user queries.",
+    "link": "https://www.pexels.com/",
+    "price": "Free"
+  },
+  {
+    "name": "AI Palette",
+    "type": "Data Analysis",
+    "description": "AI for trend analysis and creating personalized products for brands.",
+    "link": "https://www.aipalette.com/",
+    "price": "Custom pricing"
+  },
+  {
+    "name": "Scribbr",
+    "type": "Language Processing",
+    "description": "AI for grammar checking and improving written work.",
+    "link": "https://www.scribbr.com/",
+    "price": "Free / from $9.99 per month"
+  },
+  {
+    "name": "Copydash",
+    "type": "Content Generation",
+    "description": "AI for automatically writing texts for websites, blogs, and ads.",
+    "link": "https://copydash.com/",
+    "price": "Free / from $19 per month"
+  },
+  {
+    "name": "Brain.fm",
+    "type": "Music",
+    "description": "AI for generating music compositions that improve concentration and productivity.",
+    "link": "https://brain.fm/",
+    "price": "Free / from $6 per month"
+  },
+  {
+    "name": "Fireflies.ai",
+    "type": "Language Processing",
+    "description": "AI for recording, transcribing, and finding key moments in conversations.",
+    "link": "https://fireflies.ai/",
+    "price": "Free / from $10 per month"
+  },
+  {
+    "name": "Frase",
+    "type": "SEO",
+    "description": "AI for creating SEO-optimized content and generating answers to questions.",
+    "link": "https://www.frase.io/",
+    "price": "Free / from $14.99 per month"
+  },
+  {
+    "name": "Jasper AI",
+    "type": "Content Generation",
+    "description": "AI for automating the creation of texts, articles, and marketing materials.",
+    "link": "https://www.jasper.ai/",
+    "price": "Free / from $29 per month"
+  },
+  {
+    "name": "Scalenut",
+    "type": "Content Generation",
+    "description": "AI for creating SEO content and optimizing texts for search engines.",
+    "link": "https://www.scalenut.com/",
+    "price": "Free / from $19 per month"
+  },
+  {
+    "name": "Surfer",
+    "type": "SEO",
+    "description": "AI for analyzing SEO and improving content to achieve high rankings in search engines.",
+    "link": "https://surferseo.com/",
+    "price": "Free / from $59 per month"
+  },
+  {
+    "name": "TextCortex",
+    "type": "Content Generation",
+    "description": "AI for creating content based on user queries for blogs and social media.",
+    "link": "https://www.textcortex.com/",
+    "price": "Free / from $14.99 per month"
+  },
+  {
+    "name": "Synthesys",
+    "type": "Video Generation",
+    "description": "AI for creating videos with virtual characters and voices.",
+    "link": "https://www.synthesys.io/",
+    "price": "Custom pricing"
+  },
+  {
+    "name": "Ink For All",
+    "type": "Content Generation",
+    "description": "AI for creating and optimizing texts with SEO and traffic engagement in mind.",
+    "link": "https://inkforall.com/",
+    "price": "Free / from $49 per month"
+  },
+  {
+    "name": "Rephrase.ai",
+    "type": "Video Generation",
+    "description": "AI for creating personalized videos using avatars and scripts.",
+    "link": "https://www.rephrase.ai/",
+    "price": "Custom pricing"
+  },
+  {
+    "name": "StoryLab AI",
+    "type": "Content Generation",
+    "description": "AI for creating stories, articles, and scripts for content.",
+    "link": "https://www.storylab.ai/",
+    "price": "Free / from $15 per month"
+  },
+  {
+    "name": "FlowGPT",
+    "type": "Content Generation",
+    "description": "AI for generating texts based on user prompts.",
+    "link": "https://www.flowgpt.com/",
+    "price": "Free"
+  },
+  {
+    "name": "X.AI",
+    "type": "Personal Assistant",
+    "description": "AI for automating schedules and organizing meetings.",
+    "link": "https://x.ai/",
+    "price": "Custom pricing"
+  },
+  {
+    "name": "Tome",
+    "type": "Presentation Generation",
+    "description": "AI for creating presentations using text prompts.",
+    "link": "https://beta.tome.app/",
+    "price": "Free / from $10 per month"
+  },
+  {
+    "name": "Sudowrite",
+    "type": "Content Generation",
+    "description": "AI for automating creative writing, stories, and texts.",
+    "link": "https://www.sudowrite.com/",
+    "price": "Free / from $10 per month"
+  },
+  {
+    "name": "LALA Land",
+    "type": "Video Generation",
+    "description": "AI for automatically creating video ads.",
+    "link": "https://www.lalaland.ai/",
+    "price": "Custom pricing"
+  },
+  {
+    "name": "Kuki",
+    "type": "Chatbot",
+    "description": "AI for creating interactive chatbots that converse with users.",
+    "link": "https://www.kuki.ai/",
+    "price": "Free / from $5 per month"
+  },
+  {
+    "name": "Scribe AI",
+    "type": "Content Generation",
+    "description": "AI for automatically generating copies and marketing materials.",
+    "link": "https://scribe.ai/",
+    "price": "Free / from $19 per month"
+  },
+  {
+    "name": "Sizle",
+    "type": "Marketing",
+    "description": "AI for creating content for social media, ads, and campaigns.",
+    "link": "https://sizle.ai/",
+    "price": "Free / from $10 per month"
+  },
+  {
+    "name": "AI Dungeon",
+    "type": "Games",
+    "description": "AI for creating interactive text-based games based on user prompts.",
+    "link": "https://play.aidungeon.io/",
+    "price": "Free / from $9 per month"
+  },
+  {
+    "name": "Mubert",
+    "type": "Music Generation",
+    "description": "AI for creating unique music tracks and backgrounds for videos and projects.",
+    "link": "https://mubert.com/",
+    "price": "Free / from $9 per month"
+  },
+  {
+    "name": "ChatGPT for Business",
+    "type": "Language Processing",
+    "description": "AI-powered business solution that automates query processing and provides answers to questions.",
+    "link": "https://openai.com/chatgpt-business",
+    "price": "Custom pricing"
+  },
+  {
+    "name": "Rasa",
+    "type": "Chatbot",
+    "description": "AI for creating open-source chatbots and interactive voice assistants.",
+    "link": "https://rasa.com/",
+    "price": "Free / from $250 per month"
+  },
+  {
+    "name": "Murph",
+    "type": "Voice Generation",
+    "description": "AI for generating synthetic voice for content narration.",
+    "link": "https://www.murph.ai/",
+    "price": "Free / from $19 per month"
+  },
+  {
+    "name": "Hotpot.ai",
+    "type": "Image Generation",
+    "description": "AI for creating illustrations and designs from text prompts.",
+    "link": "https://hotpot.ai/",
+    "price": "Free / from $19.99 per month"
+  },
+  {
+    "name": "Jina AI",
+    "type": "Image Processing",
+    "description": "AI for creating and processing images using modern machine learning techniques.",
+    "link": "https://jina.ai/",
+    "price": "Custom pricing"
+  },
+  {
+    "name": "Grid.ai",
+    "type": "Computation",
+    "description": "AI for automating computational processes and managing tasks in the cloud.",
+    "link": "https://grid.ai/",
+    "price": "Custom pricing"
+  },
+  {
+    "name": "Reface",
+    "type": "Video Generation",
+    "description": "AI for swapping faces in videos using face recognition technology.",
+    "link": "https://reface.app/",
+    "price": "Free / from $2.99 per month"
+  },
+  {
+    "name": "Lifelapse",
+    "type": "Video Generation",
+    "description": "AI for creating stop-motion videos from photos or images.",
+    "link": "https://www.lifelapseapp.com/",
+    "price": "Free / from $10 per month"
+  },
+  {
+    "name": "Kaedim",
+    "type": "3D Modeling",
+    "description": "AI for automating the 3D modeling process and designing virtual objects.",
+    "link": "https://www.kaedim3d.com/",
+    "price": "Custom pricing"
+  },
+  {
+    "name": "Yseop Compose",
+    "type": "Content Generation",
+    "description": "AI for automating the creation of text reports and financial documents.",
+    "link": "https://www.yseop.com/",
+    "price": "Custom pricing"
+  },
+  {
+    "name": "Bing AI",
+    "type": "Language Processing",
+    "description": "AI for search queries and providing answers based on learned data.",
+    "link": "https://www.bing.com/new",
+    "price": "Free"
+  },
+  {
+    "name": "ScribeAI",
+    "type": "Transcription",
+    "description": "AI for automatically generating text transcriptions from video or audio.",
+    "link": "https://www.scribehow.com/",
+    "price": "Free / from $10 per month"
+  },
+  {
+    "name": "Synthetik",
+    "type": "Image Generation",
+    "description": "AI for creating images and artwork from text descriptions.",
+    "link": "https://www.synthetik.ai/",
+    "price": "Custom pricing"
+  },
+  {
+    "name": "Podcastle",
+    "type": "Audio Processing",
+    "description": "AI for editing and generating audio content for podcasts.",
+    "link": "https://www.podcastle.ai/",
+    "price": "Free / from $10 per month"
+  },
+  {
+    "name": "TensorFlow",
+    "type": "Machine Learning",
+    "description": "An open platform for creating and training machine learning models.",
+    "link": "https://www.tensorflow.org/",
+    "price": "Free"
+  },
+  {
+    "name": "Hugging Face",
+    "type": "Machine Learning",
+    "description": "A platform for creating and deploying machine learning models.",
+    "link": "https://huggingface.co/",
+    "price": "Free / from $9 per month"
+  },
+  {
+    "name": "Clarifai",
+    "type": "Image Recognition",
+    "description": "AI for automatic analysis and recognition of images and videos.",
+    "link": "https://www.clarifai.com/",
+    "price": "Custom pricing"
+  },
+  {
+    "name": "Surfan",
+    "type": "Data Analysis",
+    "description": "An AI tool for analyzing large volumes of data.",
+    "link": "https://surfan.com",
+    "price": "$6"
+  },
+  {
+    "name": "Murf AI",
+    "type": "Text-to-Speech",
+    "description": "AI for speech synthesis and converting text to audio format.",
+    "link": "https://murf.ai/",
+    "price": "Free / from $19 per month"
+  },
+  {
+    "name": "AI Portraits",
+    "type": "Image Generation",
+    "description": "AI for creating portraits in the style of artists from photos.",
+    "link": "https://www.ai-art.tokyo/en/portrait/",
+    "price": "Free"
+  },
+  {
+    "name": "Bard by Google",
+    "type": "Chatbot",
+    "description": "AI for automatic conversations that generate responses to user queries.",
+    "link": "https://bard.google.com/",
+    "price": "Free"
+  },
+  {
+    "name": "LALAL.AI",
+    "type": "Audio Processing",
+    "description": "AI for separating vocals and instruments from music tracks.",
+    "link": "https://www.lalal.ai/",
+    "price": "Free / from $10 per processing"
+  },
+  {
+    "name": "Poised",
+    "type": "Communication",
+    "description": "AI to improve communication skills, especially in video conferences.",
+    "link": "https://www.poised.com/",
+    "price": "Free / from $19 per month"
+  },
+  {
+    "name": "Veed.io",
+    "type": "Video Editing",
+    "description": "AI for simple online video editing with automatic features.",
+    "link": "https://www.veed.io/",
+    "price": "Free / from $12 per month"
+  },
+  {
+    "name": "Stock AI",
+    "type": "Image Generation",
+    "description": "AI for creating custom stock photos and images.",
+    "link": "https://www.stockai.com/",
+    "price": "Free / from $10 per month"
+  },
+  {
+    "name": "SummarizeBot",
+    "type": "Text Processing",
+    "description": "AI for automatically summarizing large texts and documents.",
+    "link": "https://www.summarizebot.com/",
+    "price": "Free / from $5 per month"
+  },
+  {
+    "name": "MedeAnalytics",
+    "type": "Data Analysis",
+    "description": "AI for analyzing medical data and providing recommendations based on the obtained information.",
+    "link": "https://www.medeanalytics.com/",
+    "price": "Custom pricing"
+  },
+  {
+    "name": "AI Music Generator",
+    "type": "Music Generation",
+    "description": "AI for creating music using neural networks.",
+    "link": "https://www.aigenerator.com/",
+    "price": "Free / from $5 per month"
+  },
+  {
+    "name": "Sly.ai",
+    "type": "Chatbot",
+    "description": "AI for creating intelligent chatbots for businesses.",
+    "link": "https://www.sly.ai/",
+    "price": "Free / from $19 per month"
+  },
+  {
+    "name": "Speechify",
+    "type": "Text-to-Speech",
+    "description": "AI for reading texts and documents for studying and work.",
+    "link": "https://www.speechify.com/",
+    "price": "Free / from $4.99 per month"
+  },
+  {
+    "name": "NeuroText",
+    "type": "Text Generation",
+    "description": "A tool for creating high-quality content based on artificial intelligence.",
+    "link": "https://neurotext.ai/",
+    "price": "$5 per month"
+  },
+  {
+    "name": "ImageMind",
+    "type": "Image Generation",
+    "description": "AI image generator considering user style and details.",
+    "link": "https://imagemind.ai/",
+    "price": "Free"
+  },
+  {
+    "name": "VoiceSynth",
+    "type": "Voice Synthesis",
+    "description": "Generates realistic voices for videos, games, and podcasts.",
+    "link": "https://voicesynth.com/",
+    "price": "$10 per month"
+  },
+  {
+    "name": "CodeForge",
+    "type": "Code Generation",
+    "description": "Automates code writing based on textual descriptions.",
+    "link": "https://codeforge.ai/",
+    "price": "Free"
+  },
+  {
+    "name": "TrendAnalyzer",
+    "type": "Data Analysis",
+    "description": "Predicts trends based on large volumes of data.",
+    "link": "https://trendanalyzer.ai/",
+    "price": "Free"
+  },
+  {
+    "name": "DreamWeaver",
+    "type": "Dream Generation",
+    "description": "Creates unique visual representations of dreams based on text descriptions.",
+    "link": "https://dreamweaver.ai/",
+    "price": "$7 per month"
+  },
+  {
+    "name": "SynthPortraits",
+    "type": "Image Generation",
+    "description": "Creates realistic portraits from descriptions or photos.",
+    "link": "https://synthportraits.ai/",
+    "price": "$5 per month"
+  },
+  {
+    "name": "HyperVoice",
+    "type": "Voice Synthesis",
+    "description": "Generates natural voices for videos and audiobooks.",
+    "link": "https://hypervoice.com/",
+    "price": "$10 per month"
+  },
+  {
+    "name": "AI News Writer",
+    "type": "Text Generation",
+    "description": "AI for writing current news and articles.",
+    "link": "https://ainewswriter.ai/",
+    "price": "Free"
+  },
+  {
+    "name": "AI Cook",
+    "type": "Recipe Generation",
+    "description": "Offers unique recipes based on your preferences.",
+    "link": "https://aicook.ai/",
+    "price": "$5 per month"
+  },
+  {
+    "name": "VisualSynth",
+    "type": "Video Generation",
+    "description": "Generates videos from text scripts.",
+    "link": "https://visualsynth.ai/",
+    "price": "Free"
+  },
+  {
+    "name": "AdVantage AI",
+    "type": "Advertising",
+    "description": "Automated ad campaign creation using AI.",
+    "link": "https://advantageai.com/",
+    "price": "$20 per month"
+  },
+  {
+    "name": "LogoBot",
+    "type": "Design",
+    "description": "Generates logos for brands based on specified parameters.",
+    "link": "https://logobot.ai/",
+    "price": "$5 per month"
+  },
+  {
+    "name": "SmartResume",
+    "type": "HR",
+    "description": "Helps create perfect resumes using AI.",
+    "link": "https://smartresume.com/",
+    "price": "Free"
+  },
+  {
+    "name": "NeuroMind",
+    "type": "Text Analysis",
+    "description": "Recognizes emotions and sentiment in texts.",
+    "link": "https://neuromind.ai/",
+    "price": "Free"
+  },
+  {
+    "name": "GameGen",
+    "type": "Game Generation",
+    "description": "Generates game concepts and mechanics from descriptions.",
+    "link": "https://gamegen.ai/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "MarketSense",
+    "type": "Finance",
+    "description": "Predicts markets and trends for investors.",
+    "link": "https://marketsense.ai/",
+    "price": "Free"
+  },
+  {
+    "name": "DeepSketch",
+    "type": "Image Generation",
+    "description": "Transforms sketches into detailed images.",
+    "link": "https://deepsketch.com/",
+    "price": "$7 per month"
+  },
+  {
+    "name": "StoryBoard AI",
+    "type": "Film Industry",
+    "description": "Generates storyboards and scripts for movies.",
+    "link": "https://storyboardai.com/",
+    "price": "$10 per month"
+  },
+  {
+    "name": "NeuroSketch",
+    "type": "Image Generation",
+    "description": "Turns simple sketches into realistic images.",
+    "link": "https://neurosketch.ai/",
+    "price": "Free"
+  },
+  {
+    "name": "SoundGen AI",
+    "type": "Audio Generation",
+    "description": "Creates unique sound effects and music samples.",
+    "link": "https://soundgen.ai/",
+    "price": "$10 per month"
+  },
+  {
+    "name": "AI Narrator",
+    "type": "Text-to-Speech",
+    "description": "Narrates articles, books, and scripts in different voice styles.",
+    "link": "https://ainarrator.com/",
+    "price": "Free"
+  },
+  {
+    "name": "Brandify AI",
+    "type": "Marketing",
+    "description": "Helps create unique brand strategies.",
+    "link": "https://brandifyai.com/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "ArtVision",
+    "type": "Art Generation",
+    "description": "Generates unique artworks based on a given style.",
+    "link": "https://artvision.ai/",
+    "price": "$5 per month"
+  },
+  {
+    "name": "SmartTranslate",
+    "type": "Text Translation",
+    "description": "Automatic translation with deep understanding of context.",
+    "link": "https://smarttranslate.com/",
+    "price": "Free"
+  },
+  {
+    "name": "VideoMagic",
+    "type": "Video Generation",
+    "description": "Creates video clips from text descriptions.",
+    "link": "https://videomagic.ai/",
+    "price": "$10 per month"
+  },
+  {
+    "name": "AI UX Designer",
+    "type": "Design",
+    "description": "Automatically creates UX layouts for web applications.",
+    "link": "https://aiuxdesigner.com/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "AI Compose",
+    "type": "Text Generation",
+    "description": "Helps write emails, articles, and messages.",
+    "link": "https://aicompose.ai/",
+    "price": "Free"
+  },
+  {
+    "name": "GeniusBook",
+    "type": "Education",
+    "description": "Adaptive AI tutor for learning complex topics.",
+    "link": "https://geniusbook.ai/",
+    "price": "$12 per month"
+  },
+  {
+    "name": "RecipeBot",
+    "type": "Recipe Generation",
+    "description": "Suggests unique recipes based on your ingredients.",
+    "link": "https://recipebot.com/",
+    "price": "Free"
+  },
+  {
+    "name": "LegalMind",
+    "type": "Law",
+    "description": "Generates legal documents and helps with legal matters.",
+    "link": "https://legalmind.ai/",
+    "price": "$20 per month"
+  },
+  {
+    "name": "AI BlogWriter",
+    "type": "Text Generation",
+    "description": "Generates blogs and SEO-optimized articles.",
+    "link": "https://aiblogwriter.com/",
+    "price": "$10 per month"
+  },
+  {
+    "name": "PersonaGen",
+    "type": "Character Generation",
+    "description": "Creates unique characters for games and storytelling.",
+    "link": "https://personagen.ai/",
+    "price": "$5 per month"
+  },
+  {
+    "name": "AutoResume",
+    "type": "HR",
+    "description": "Generates professional resumes and cover letters.",
+    "link": "https://autoresume.com/",
+    "price": "Free"
+  },
+  {
+    "name": "AI Interior",
+    "type": "Design",
+    "description": "Generates design ideas for interior and exterior spaces.",
+    "link": "https://aiinterior.com/",
+    "price": "$7 per month"
+  },
+  {
+    "name": "AI TutorPro",
+    "type": "Education",
+    "description": "Personalized learning assistant with interactive lessons.",
+    "link": "https://aitutorpro.com/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "NeuroColor",
+    "type": "Palette Generation",
+    "description": "Generates color palettes for designers and artists.",
+    "link": "https://neurocolor.ai/",
+    "price": "$5 per month"
+  },
+  {
+    "name": "StockPredict",
+    "type": "Finance",
+    "description": "Predicts stock market changes based on data.",
+    "link": "https://stockpredict.ai/",
+    "price": "$20 per month"
+  },
+  {
+    "name": "AI PetCare",
+    "type": "Pets",
+    "description": "Suggests personalized care plans for pets.",
+    "link": "https://aipetcare.com/",
+    "price": "$7 per month"
+  },
+  {
+    "name": "MindScript",
+    "type": "Script Generation",
+    "description": "Creates scripts for films, games, and advertisements.",
+    "link": "https://mindscript.ai/",
+    "price": "$10 per month"
+  },
+  {
+    "name": "AI Fashion",
+    "type": "Fashion",
+    "description": "Generates unique clothing and accessory designs.",
+    "link": "https://aifashion.com/",
+    "price": "$10 per month"
+  },
+  {
+    "name": "VisionBot",
+    "type": "Computer Vision",
+    "description": "Analyzes images and videos for object recognition.",
+    "link": "https://visionbot.ai/",
+    "price": "Free"
+  },
+  {
+    "name": "DeepWriter",
+    "type": "Text Generation",
+    "description": "AI tool for writing books, articles, and scripts.",
+    "link": "https://deepwriter.ai/",
+    "price": "$10 per month"
+  },
+  {
+    "name": "AI Melody",
+    "type": "Music Generation",
+    "description": "Creates unique musical compositions based on descriptions.",
+    "link": "https://aimelody.com/",
+    "price": "Free"
+  },
+  {
+    "name": "DreamHouse AI",
+    "type": "Design",
+    "description": "Generates architectural projects and interior solutions.",
+    "link": "https://dreamhouse.ai/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "NeuroCoach",
+    "type": "Education",
+    "description": "Personal AI mentor for skill development.",
+    "link": "https://neurocoach.com/",
+    "price": "$12 per month"
+  },
+  {
+    "name": "AI Interviewer",
+    "type": "HR",
+    "description": "Helps prepare for interviews and analyzes responses.",
+    "link": "https://aiinterviewer.com/",
+    "price": "$10 per month"
+  },
+  {
+    "name": "BioSynth AI",
+    "type": "Biotechnology",
+    "description": "Helps in DNA analysis and bi-material synthesis.",
+    "link": "https://biosynth.ai/",
+    "price": "$30 per month"
+  },
+  {
+    "name": "AI AdMaker",
+    "type": "Marketing",
+    "description": "Creates effective advertising campaigns in minutes.",
+    "link": "https://aiadmaker.com/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "NeuralStory",
+    "type": "Text Generation",
+    "description": "Generates captivating stories based on input data.",
+    "link": "https://neuralstory.ai/",
+    "price": "Free"
+  },
+  {
+    "name": "SynthVoice",
+    "type": "Voice Synthesis",
+    "description": "Generates realistic voices for videos and podcasts.",
+    "link": "https://synthvoice.ai/",
+    "price": "$10 per month"
+  },
+  {
+    "name": "AutoCode AI",
+    "type": "Programming",
+    "description": "Generates code based on functional descriptions.",
+    "link": "https://autocode.ai/",
+    "price": "$20 per month"
+  },
+  {
+    "name": "AI Emotion Detector",
+    "type": "Sentiment Analysis",
+    "description": "Recognizes emotions in text and voice.",
+    "link": "https://aiemotiondetector.com/",
+    "price": "Free"
+  },
+  {
+    "name": "SmartCover",
+    "type": "Cover Generation",
+    "description": "Creates unique covers for books, albums, and videos.",
+    "link": "https://smartcover.ai/",
+    "price": "$7 per month"
+  },
+  {
+    "name": "AI Chef",
+    "type": "Recipe Generation",
+    "description": "Creates unique recipes based on your preferences.",
+    "link": "https://aichef.com/",
+    "price": "$5 per month"
+  },
+  {
+    "name": "DeepPortraits",
+    "type": "Image Generation",
+    "description": "Generates unique portraits of people based on text.",
+    "link": "https://deepportraits.ai/",
+    "price": "$10 per month"
+  },
+  {
+    "name": "LegalBot",
+    "type": "Law",
+    "description": "Generates legal documents and analyzes contracts.",
+    "link": "https://legalbot.ai/",
+    "price": "$20 per month"
+  },
+  {
+    "name": "MindSketch",
+    "type": "Image Generation",
+    "description": "Transforms ideas into realistic drawings and concept art.",
+    "link": "https://mindsketch.ai/",
+    "price": "$10 per month"
+  },
+  {
+    "name": "NeuroDetect",
+    "type": "Security",
+    "description": "Detects fraudulent transactions and suspicious activity.",
+    "link": "https://neurodetect.com/",
+    "price": "$25 per month"
+  },
+  {
+    "name": "AI Guide",
+    "type": "Education",
+    "description": "Personal AI assistant for self-education and development.",
+    "link": "https://aiguide.com/",
+    "price": "$10 per month"
+  },
+  {
+    "name": "StockGen AI",
+    "type": "Finance",
+    "description": "Generates market analytics and forecasts stock changes.",
+    "link": "https://stockgen.ai/",
+    "price": "$30 per month"
+  },
+  {
+    "name": "NeuroDoc",
+    "type": "Document Management",
+    "description": "Automates document creation, editing, and analysis.",
+    "link": "https://neurodoc.ai/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "FitAI",
+    "type": "Fitness",
+    "description": "Generates personalized workout and nutrition plans.",
+    "link": "https://fitai.com/",
+    "price": "$10 per month"
+  },
+  {
+    "name": "AI Advertiser",
+    "type": "Marketing",
+    "description": "Automates advertising and creates targeted campaigns.",
+    "link": "https://aiadvertiser.com/",
+    "price": "$20 per month"
+  },
+  {
+    "name": "PhotoFix AI",
+    "type": "Photo Editing",
+    "description": "Automatically enhances image quality and removes defects.",
+    "link": "https://photofix.ai/",
+    "price": "Free"
+  },
+  {
+    "name": "NeuroTranslator",
+    "type": "Translation",
+    "description": "Instant text translation with contextual meaning analysis.",
+    "link": "https://neurotranslator.ai/",
+    "price": "Free"
+  },
+  {
+    "name": "AI BeatMaker",
+    "type": "Music Generation",
+    "description": "Creates unique beats and rhythms based on a given style.",
+    "link": "https://aibeatmaker.com/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "ScriptBot",
+    "type": "Text Generation",
+    "description": "Automatically writes scripts for videos, movies, and commercials.",
+    "link": "https://scriptbot.ai/",
+    "price": "12$ per month"
+  },
+  {
+    "name": "VisualMind",
+    "type": "Image Generation",
+    "description": "Creates digital art based on text prompts.",
+    "link": "https://visualmind.ai/",
+    "price": "Free"
+  },
+  {
+    "name": "AI ResumeBuilder",
+    "type": "HR",
+    "description": "Generates professional resumes and cover letters.",
+    "link": "https://airesumebuilder.com/",
+    "price": "7$ per month"
+  },
+  {
+    "name": "NeuroShop",
+    "type": "E-commerce",
+    "description": "Personalized product recommendations based on user behavior analysis.",
+    "link": "https://neuroshop.ai/",
+    "price": "Free"
+  },
+  {
+    "name": "AI StoryWeaver",
+    "type": "Text Generation",
+    "description": "Generates fantastic stories and novels based on user ideas.",
+    "link": "https://aistoryweaver.com/",
+    "price": "10$ per month"
+  },
+  {
+    "name": "VoiceSynth AI",
+    "type": "Voice Technologies",
+    "description": "Generates synthetic voices with natural sound.",
+    "link": "https://voicesynth.ai/",
+    "price": "Free"
+  },
+  {
+    "name": "PixelEnhance",
+    "type": "Photo Editing",
+    "description": "Improves the quality of old and blurry photos.",
+    "link": "https://pixelenhance.ai/",
+    "price": "5$ per month"
+  },
+  {
+    "name": "AI PodcastHost",
+    "type": "Media",
+    "description": "Generates audio podcasts on given topics.",
+    "link": "https://aipodcasthost.com/",
+    "price": "10$ per month"
+  },
+  {
+    "name": "SmartSynth",
+    "type": "Music Generation",
+    "description": "Generates synthesized melodies in real time.",
+    "link": "https://smartsynth.ai/",
+    "price": "Free"
+  },
+  {
+    "name": "NeuroDocs",
+    "type": "Documentation Automation",
+    "description": "Generates, edits, and analyzes official documents.",
+    "link": "https://neurodocs.ai/",
+    "price": "15$ per month"
+  },
+  {
+    "name": "AdVision AI",
+    "type": "Marketing",
+    "description": "Generates advertising banners and videos based on brand description.",
+    "link": "https://advision.ai/",
+    "price": "20$ per month"
+  },
+  {
+    "name": "AI PersonalTrainer",
+    "type": "Fitness",
+    "description": "Creates personalized workout programs.",
+    "link": "https://aipersonaltrainer.com/",
+    "price": "10$ per month"
+  },
+  {
+    "name": "NeuroDetective",
+    "type": "Data Analysis",
+    "description": "Detects suspicious activity and fraud.",
+    "link": "https://neurodetective.ai/",
+    "price": "25$ per month"
+  },
+  {
+    "name": "SmartScheduler",
+    "type": "Scheduling",
+    "description": "Automatically optimizes your tasks and schedule.",
+    "link": "https://smartscheduler.ai/",
+    "price": "Free"
+  },
+  {
+    "name": "AI Tutor",
+    "type": "Education",
+    "description": "Personal tutor for learning various subjects.",
+    "link": "https://aitutor.com/",
+    "price": "15$ per month"
+  },
+  {
+    "name": "NeuroHR",
+    "type": "Recruiting",
+    "description": "Automates the hiring process and analyzes candidates.",
+    "link": "https://neurohr.ai/",
+    "price": "30$ per month"
+  },
+  {
+    "name": "AI TrendAnalyzer",
+    "type": "Analytics",
+    "description": "Analyzes market trends and predicts future trends.",
+    "link": "https://aitrendanalyzer.com/",
+    "price": "20$ per month"
+  },
+  {
+    "name": "ImageRestorer",
+    "type": "Photo Editing",
+    "description": "Restores damaged or old photos.",
+    "link": "https://imagerestorer.ai/",
+    "price": "5$ per month"
+  },
+  {
+    "name": "FashionAI",
+    "type": "Fashion",
+    "description": "Generates unique clothing styles and looks.",
+    "link": "https://fashionai.com/",
+    "price": "Free"
+  },
+  {
+    "name": "SmartFinance AI",
+    "type": "Finance",
+    "description": "Helps manage finances and plan expenses.",
+    "link": "https://smartfinance.ai/",
+    "price": "10$ per month"
+  },
+  {
+    "name": "NeuroCode",
+    "type": "Programming",
+    "description": "Generates code and automatically fixes errors.",
+    "link": "https://neurocode.ai/",
+    "price": "20$ per month"
+  },
+  {
+    "name": "AI VoiceOver",
+    "type": "Voice Over",
+    "description": "Generates professional voiceovers for videos.",
+    "link": "https://aivoiceover.ai/",
+    "price": "12$ per month"
+  },
+  {
+    "name": "NeuroChef",
+    "type": "Cooking",
+    "description": "Generates unique recipes based on your ingredients.",
+    "link": "https://neurochef.ai/",
+    "price": "Free"
+  },
+  {
+    "name": "StoryTeller AI",
+    "type": "Text Generation",
+    "description": "Creates short stories and fairy tales for children.",
+    "link": "https://storyteller.ai/",
+    "price": "Free"
+  },
+  {
+    "name": "AI Architect",
+    "type": "Design",
+    "description": "Generates architectural projects and interior designs.",
+    "link": "https://aiarchitect.com/",
+    "price": "25$ per month"
+  },
+  {
+    "name": "CodeSimplify",
+    "type": "Programming",
+    "description": "Simplifies and optimizes complex code.",
+    "link": "https://codesimplify.ai/",
+    "price": "10$ per month"
+  },
+  {
+    "name": "Resume Genius AI",
+    "type": "HR",
+    "description": "Automatically creates the perfect resume for a job vacancy.",
+    "link": "https://resumegenius.ai/",
+    "price": "8$ per month"
+  },
+  {
+    "name": "AI Stock Advisor",
+    "type": "Finance",
+    "description": "Predicts stock market trends using artificial intelligence.",
+    "link": "https://aistockadvisor.com/",
+    "price": "$30 per month"
+  },
+  {
+    "name": "AI CoverLetter",
+    "type": "HR",
+    "description": "Generates effective cover letters for resumes.",
+    "link": "https://aicoverletter.ai/",
+    "price": "$5 per month"
+  },
+  {
+    "name": "NeuroPet",
+    "type": "Pets",
+    "description": "Analyzes pets' behavior and provides care recommendations.",
+    "link": "https://neuropet.ai/",
+    "price": "Free"
+  },
+  {
+    "name": "AI LogoMaker",
+    "type": "Design",
+    "description": "Generates professional logos for companies and brands.",
+    "link": "https://ailogomaker.com/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "FashionStyler AI",
+    "type": "Fashion",
+    "description": "Suggests clothing based on trends and personal style.",
+    "link": "https://fashionstyler.ai/",
+    "price": "Free"
+  },
+  {
+    "name": "AI Video Cutter",
+    "type": "Media",
+    "description": "Cuts and edits videos using AI.",
+    "link": "https://aivideocutter.com/",
+    "price": "$10 per month"
+  },
+  {
+    "name": "AI SongWriter",
+    "type": "Music",
+    "description": "Generates song lyrics based on a chosen style.",
+    "link": "https://aisongwriter.com/",
+    "price": "Free"
+  },
+  {
+    "name": "AI Interior Designer",
+    "type": "Design",
+    "description": "Provides interior design ideas based on your preferences.",
+    "link": "https://aiinteriordesigner.com/",
+    "price": "$20 per month"
+  },
+  {
+    "name": "AI BusinessPlan",
+    "type": "Business",
+    "description": "Automatically generates business plans.",
+    "link": "https://aibusinessplan.ai/",
+    "price": "$30 per month"
+  },
+  {
+    "name": "SmartGrammar AI",
+    "type": "Grammar",
+    "description": "Checks grammar and writing style.",
+    "link": "https://smartgrammar.ai/",
+    "price": "Free"
+  },
+  {
+    "name": "AI Presentation Maker",
+    "type": "Business",
+    "description": "Creates professional presentations based on entered data.",
+    "link": "https://aipresentationmaker.com/",
+    "price": "$10 per month"
+  },
+  {
+    "name": "AI Health Advisor",
+    "type": "Medicine",
+    "description": "Analyzes symptoms and provides health recommendations.",
+    "link": "https://aihealthadvisor.com/",
+    "price": "Free"
+  },
+  {
+    "name": "AI Productivity Booster",
+    "type": "Productivity",
+    "description": "Helps manage time and tasks.",
+    "link": "https://aiproductivitybooster.com/",
+    "price": "$8 per month"
+  },
+  {
+    "name": "SmartAI Gardening",
+    "type": "Gardening",
+    "description": "Diagnoses plant health and provides care advice.",
+    "link": "https://smartgardening.ai/",
+    "price": "Free"
+  },
+  {
+    "name": "AI Email Assistant",
+    "type": "Business",
+    "description": "Automates writing and responding to emails.",
+    "link": "https://aiemailassistant.com/",
+    "price": "$9 per month"
+  },
+  {
+    "name": "AI PhotoColorizer",
+    "type": "Photo Editing",
+    "description": "Colorizes black-and-white photos.",
+    "link": "https://aiphotocolorizer.com/",
+    "price": "$5 per month"
+  },
+  {
+    "name": "AI Recipe Converter",
+    "type": "Cooking",
+    "description": "Converts recipes for various diets or restrictions (vegan, gluten-free, etc.).",
+    "link": "https://airecipeconverter.com/",
+    "price": "$8 per month"
+  },
+  {
+    "name": "MoodBot",
+    "type": "Psychology",
+    "description": "Analyzes mood from text messages and suggests self-help methods.",
+    "link": "https://moodbot.ai/",
+    "price": "Free"
+  },
+  {
+    "name": "AI Video Script Generator",
+    "type": "Media",
+    "description": "Generates video scripts based on a given topic.",
+    "link": "https://aivideoscript.com/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "AI Travel Companion",
+    "type": "Travel",
+    "description": "Accompanies you during travels, offering local recommendations and routes.",
+    "link": "https://aitravelcompanion.ai/",
+    "price": "$10 per month"
+  },
+  {
+    "name": "AI Workout Coach",
+    "type": "Health",
+    "description": "Creates personalized workout plans based on your fitness level.",
+    "link": "https://aiworkoutcoach.com/",
+    "price": "$9 per month"
+  },
+  {
+    "name": "AI Health Tracker",
+    "type": "Health",
+    "description": "Tracks physical condition and provides health improvement tips.",
+    "link": "https://aihealthtracker.com/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "AI Time Manager",
+    "type": "Productivity",
+    "description": "Helps plan your day and allocate time for important tasks.",
+    "link": "https://aitimemanager.com/",
+    "price": "$8 per month"
+  },
+  {
+    "name": "AI Resume Builder",
+    "type": "HR",
+    "description": "Generates professional resumes based on your career and skills.",
+    "link": "https://airesumebuilder.com/",
+    "price": "Free"
+  },
+  {
+    "name": "AI Language Buddy",
+    "type": "Education",
+    "description": "Helps learn new languages by answering questions and conducting interactive lessons.",
+    "link": "https://ailanguagebuddy.com/",
+    "price": "$5 per month"
+  },
+  {
+    "name": "AI Music Generator Pro",
+    "type": "Music",
+    "description": "Generates music for movies, advertisements, or personal projects.",
+    "link": "https://aimusicgeneratorpro.com/",
+    "price": "$25 per month"
+  },
+  {
+    "name": "AI Virtual Artist",
+    "type": "Art",
+    "description": "Creates paintings based on your preferences and style.",
+    "link": "https://aivirtualartist.com/",
+    "price": "$20 per month"
+  },
+  {
+    "name": "AI Story Editor",
+    "type": "Text Generation",
+    "description": "Edits and improves your stories, offering suggestions for enhancement.",
+    "link": "https://aistoryeditor.com/",
+    "price": "$10 per month"
+  },
+  {
+    "name": "AI Chef Assistant",
+    "type": "Cooking",
+    "description": "Adds new ingredients to recipes to create unique dishes.",
+    "link": "https://aichefassistant.com/",
+    "price": "Free"
+  },
+  {
+    "name": "AI Digital Archivist",
+    "type": "Technology",
+    "description": "Digitizes documents and organizes electronic archives.",
+    "link": "https://aidigitalarchivist.com/",
+    "price": "$10 per month"
+  },
+  {
+    "name": "AI News Summarizer",
+    "type": "News",
+    "description": "Quickly summarizes the most important news of the day.",
+    "link": "https://ainewssummarizer.com/",
+    "price": "Free"
+  },
+  {
+    "name": "AI Homework Helper",
+    "type": "Education",
+    "description": "Assists with homework for students.",
+    "link": "https://aihomeworkhelper.com/",
+    "price": "$5 per month"
+  },
+  {
+    "name": "AI Story Weaver",
+    "type": "Text Generation",
+    "description": "Generates captivating stories based on your ideas and requests.",
+    "link": "https://aistoryweaver.com/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "AI Dream Analyzer",
+    "type": "Psychology",
+    "description": "Analyzes your dreams and provides interpretations based on psychological theories.",
+    "link": "https://aidreamanalyzer.com/",
+    "price": "$7 per month"
+  },
+  {
+    "name": "AI Climate Predictor",
+    "type": "Science",
+    "description": "Predicts climate changes and weather conditions based on data from various sources.",
+    "link": "https://aiclimatepredictor.com/",
+    "price": "Free"
+  },
+  {
+    "name": "AI Architecture Planner",
+    "type": "Construction",
+    "description": "Assists in building design by creating plans and 3D models.",
+    "link": "https://aiarchitectureplanner.com/",
+    "price": "$25 per month"
+  },
+  {
+    "name": "AI Auto Mechanics",
+    "type": "Cars",
+    "description": "Diagnoses car problems and offers repair recommendations.",
+    "link": "https://aiautomechanics.com/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "AI Nature Sounds",
+    "type": "Music",
+    "description": "Generates nature sounds for meditation, relaxation, or background use.",
+    "link": "https://ainaturesounds.com/",
+    "price": "Free"
+  },
+  {
+    "name": "AI Book Summarizer",
+    "type": "Education",
+    "description": "Creates concise and understandable summaries of books, helping save time.",
+    "link": "https://aibooksummarizer.com/",
+    "price": "$7 per month"
+  },
+  {
+    "name": "AI Fashion Trend Forecaster",
+    "type": "Fashion",
+    "description": "Predicts future fashion trends based on global data.",
+    "link": "https://aifashiontrendforecaster.com/",
+    "price": "$10 per month"
+  },
+  {
+    "name": "AI Mental Health Tracker",
+    "type": "Health",
+    "description": "Tracks mental and emotional well-being and suggests techniques for maintaining mental health.",
+    "link": "https://aimentalhealthtracker.com/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "AI Gardening Helper",
+    "type": "Gardening",
+    "description": "Provides advice on plant care and gardening in general.",
+    "link": "https://aigardeninghelper.com/",
+    "price": "$6 per month"
+  },
+  {
+    "name": "AI Startup Advisor",
+    "type": "Business",
+    "description": "Offers recommendations and strategies for startups and small businesses.",
+    "link": "https://aistartupadvisor.com/",
+    "price": "$20 per month"
+  },
+  {
+    "name": "AI Virtual Fashion Show",
+    "type": "Fashion",
+    "description": "Creates virtual fashion shows using artificial intelligence to generate models.",
+    "link": "https://aivirtualfashionshow.com/",
+    "price": "$30 per month"
+  },
+  {
+    "name": "AI Voice Enhancer",
+    "type": "Technology",
+    "description": "Improves voice quality in recordings or during calls.",
+    "link": "https://aivoiceenhancer.com/",
+    "price": "$9 per month"
+  },
+  {
+    "name": "AI Memory Coach",
+    "type": "Education",
+    "description": "Helps improve memory through specialized exercises and training.",
+    "link": "https://aimemorycoach.com/",
+    "price": "$8 per month"
+  },
+  {
+    "name": "AI Freelance Manager",
+    "type": "Business",
+    "description": "Manages projects for freelancers, creating schedules and task execution strategies.",
+    "link": "https://aifreelancemanager.com/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "AI Content Ideas Generator",
+    "type": "Marketing",
+    "description": "Generates content ideas that align with trends and audience interests.",
+    "link": "https://aicontentideasgenerator.com/",
+    "price": "$12 per month"
+  },
+  {
+    "name": "AI Personal Financial Planner",
+    "type": "Finance",
+    "description": "Creates financial plans for personal savings and investments.",
+    "link": "https://aipersonalfinancialplanner.com/",
+    "price": "$20 per month"
+  },
+  {
+    "name": "AI Custom Shoe Designer",
+    "type": "Fashion",
+    "description": "Creates unique shoe designs based on your preferences.",
+    "link": "https://aicustomshoedesigner.com/",
+    "price": "$18 per month"
+  },
+  {
+    "name": "AI History Assistant",
+    "type": "Education",
+    "description": "Provides historical facts, analyzes events, and offers context for various stages of history.",
+    "link": "https://aistoryassistant.com/",
+    "price": "$6 per month"
+  },
+  {
+    "name": "AI Wildlife Tracker",
+    "type": "Ecology",
+    "description": "Tracks and analyzes wildlife populations, helping with species conservation.",
+    "link": "https://aiwildlifetracker.com/",
+    "price": "Free"
+  },
+  {
+    "name": "AI Resume Optimizer",
+    "type": "HR",
+    "description": "Optimizes resumes for better chances of success in job searches.",
+    "link": "https://airesumeoptimizer.com/",
+    "price": "$8 per month"
+  },
+  {
+    "name": "AI Time Traveler",
+    "type": "History",
+    "description": "Allows you to visit different stages of history and interact with historical figures.",
+    "link": "https://aitimetraveler.com/",
+    "price": "$20 per month"
+  },
+  {
+    "name": "AI Health Assistant",
+    "type": "Health",
+    "description": "Provides recommendations for nutrition, workouts, and general health based on personal data.",
+    "link": "https://aihealthassistant.com/",
+    "price": "$12 per month"
+  },
+  {
+    "name": "AI Mentalist",
+    "type": "Psychology",
+    "description": "Predicts emotional states and gives advice for improving well-being.",
+    "link": "https://ainmentalist.com/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "AI Space Explorer",
+    "type": "Science",
+    "description": "Explores the universe, providing opportunities to study planets, stars, and galaxies.",
+    "link": "https://aispaceexplorer.com/",
+    "price": "$25 per month"
+  },
+  {
+    "name": "AI Life Coach",
+    "type": "Self-Development",
+    "description": "Provides personalized advice to achieve personal goals.",
+    "link": "https://ailifecoach.com/",
+    "price": "$30 per month"
+  },
+  {
+    "name": "AI Product Name Generator",
+    "type": "Marketing",
+    "description": "Generates unique names for new products or brands.",
+    "link": "https://aiproductnamegenerator.com/",
+    "price": "$7 per month"
+  },
+  {
+    "name": "AI Voice Narrator",
+    "type": "Media",
+    "description": "Creates professional audiobooks and narrations from text materials.",
+    "link": "https://aivoicenarrator.com/",
+    "price": "$12 per month"
+  },
+  {
+    "name": "AI Startup Idea Generator",
+    "type": "Business",
+    "description": "Generates ideas for new startups based on trends and technological innovations.",
+    "link": "https://aistartupideagenerator.com/",
+    "price": "$18 per month"
+  },
+  {
+    "name": "AI Translation Helper",
+    "type": "Languages",
+    "description": "Assists with translations, considering context and cultural nuances.",
+    "link": "https://aitranslationhelper.com/",
+    "price": "$10 per month"
+  },
+  {
+    "name": "AI Custom Music Composer",
+    "type": "Music",
+    "description": "Generates unique compositions for any event or mood.",
+    "link": "https://aicustommusiccomposer.com/",
+    "price": "$20 per month"
+  },
+  {
+    "name": "AI Virtual Personal Shopper",
+    "type": "Shopping",
+    "description": "Helps choose clothes and accessories based on your style and preferences.",
+    "link": "https://aivirtualpersonalshopper.com/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "AI Art Generator",
+    "type": "Art",
+    "description": "Generates original works of art based on text descriptions.",
+    "link": "https://aiartgenerator.com/",
+    "price": "$8 per month"
+  },
+  {
+    "name": "AI Virtual Fitness Coach",
+    "type": "Health",
+    "description": "Creates personalized workout plans for home or the gym.",
+    "link": "https://aivirtualfitnesscoach.com/",
+    "price": "$12 per month"
+  },
+  {
+    "name": "AI Social Media Assistant",
+    "type": "Marketing",
+    "description": "Helps manage social media accounts, post content, and analyze effectiveness.",
+    "link": "https://aisocialmediaassistant.com/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "AI Tattoo Designer",
+    "type": "Art",
+    "description": "Generates unique tattoo designs based on your requests.",
+    "link": "https://aitattoodesigner.com/",
+    "price": "$8 per month"
+  },
+  {
+    "name": "AI Investment Advisor",
+    "type": "Finance",
+    "description": "Provides investment recommendations for stocks, cryptocurrencies, and other assets.",
+    "link": "https://aiinvestmentadvisor.com/",
+    "price": "$25 per month"
+  },
+  {
+    "name": "AI Personalized Storyteller",
+    "type": "Text Generation",
+    "description": "Creates personalized tales and stories for both children and adults.",
+    "link": "https://aipersonalizedstoryteller.com/",
+    "price": "$6 per month"
+  },
+  {
+    "name": "AI Photography Assistant",
+    "type": "Photography",
+    "description": "Provides advice on photography techniques and image processing.",
+    "link": "https://aiphotographyassistant.com/",
+    "price": "$7 per month"
+  },
+  {
+    "name": "AI Language Master",
+    "type": "Languages",
+    "description": "Helps learn new languages by providing interactive exercises and recommendations.",
+    "link": "https://ailanguagemaster.com/",
+    "price": "$10 per month"
+  },
+  {
+    "name": "AI Code Validator",
+    "type": "Programming",
+    "description": "Checks code for errors and optimizations, and provides improvement suggestions.",
+    "link": "https://aicodevalidator.com/",
+    "price": "$12 per month"
+  },
+  {
+    "name": "AI Time Optimizer",
+    "type": "Productivity",
+    "description": "Analyzes your time and helps optimize task distribution.",
+    "link": "https://aitimeoptimizer.com/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "AI Email Helper",
+    "type": "Productivity",
+    "description": "Helps create and send professional emails.",
+    "link": "https://aiemailhelper.com/",
+    "price": "$8 per month"
+  },
+  {
+    "name": "AI Writing Assistant",
+    "type": "Text Generation",
+    "description": "Helps improve writing by offering synonyms and style enhancements.",
+    "link": "https://aiwritingassistant.com/",
+    "price": "$9 per month"
+  },
+  {
+    "name": "AI Movie Recommender",
+    "type": "Media",
+    "description": "Recommends movies and TV shows based on your preferences.",
+    "link": "https://aimovierecommender.com/",
+    "price": "$5 per month"
+  },
+  {
+    "name": "AI Visual Artist",
+    "type": "Art",
+    "description": "Creates original visual artworks based on your instructions.",
+    "link": "https://aivisualartist.com/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "AI Music Synthesizer",
+    "type": "Music",
+    "description": "Generates unique musical compositions based on set parameters.",
+    "link": "https://aimusicsynthesizer.com/",
+    "price": "$20 per month"
+  },
+  {
+    "name": "AI Shopping Assistant",
+    "type": "Shopping",
+    "description": "Helps find the best deals in online stores based on your queries.",
+    "link": "https://aishoppingassistant.com/",
+    "price": "$10 per month"
+  },
+  {
+    "name": "AI Weather Forecaster",
+    "type": "Weather Forecast",
+    "description": "Provides accurate weather forecasts considering all variables.",
+    "link": "https://aiweatherforecaster.com/",
+    "price": "$4 per month"
+  },
+  {
+    "name": "AI Recipe Assistant",
+    "type": "Cooking",
+    "description": "Helps choose ingredients and create recipes based on your preferences.",
+    "link": "https://airecipeassistant.com/",
+    "price": "$6 per month"
+  },
+  {
+    "name": "AI Garden Planner",
+    "type": "Gardening",
+    "description": "Creates plans for your garden, recommending plants and optimal placement.",
+    "link": "https://aigardenplanner.com/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "AI Meditation Coach",
+    "type": "Psychology",
+    "description": "Teaches meditation and relaxation through interactive sessions.",
+    "link": "https://aimeditationcoach.com/",
+    "price": "$8 per month"
+  },
+  {
+    "name": "AI Diet Assistant",
+    "type": "Health",
+    "description": "Provides personalized diet plans to achieve healthy goals.",
+    "link": "https://aifoodassistant.com/",
+    "price": "$12 per month"
+  },
+  {
+    "name": "AI Virtual Stylist",
+    "type": "Fashion",
+    "description": "Recommends stylish clothing and accessory combinations for various occasions.",
+    "link": "https://aivirtualstylist.com/",
+    "price": "$12 per month"
+  },
+  {
+    "name": "AI Study Helper",
+    "type": "Education",
+    "description": "Helps with learning new topics by creating personalized study plans.",
+    "link": "https://aistudyhelper.com/",
+    "price": "$8 per month"
+  },
+  {
+    "name": "AI Virtual Interview Coach",
+    "type": "Career",
+    "description": "Teaches how to ace interviews with communication and behavioral tips.",
+    "link": "https://aivirtualinterviewcoach.com/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "AI Hobby Finder",
+    "type": "Entertainment",
+    "description": "Helps find new hobbies that suit you.",
+    "link": "https://aihobbyfinder.com/",
+    "price": "$5 per month"
+  },
+  {
+    "name": "AI Creativity Booster",
+    "type": "Self-Development",
+    "description": "Boosts your creativity with specialized exercises and ideas.",
+    "link": "https://aicreativitybooster.com/",
+    "price": "$12 per month"
+  },
+  {
+    "name": "AI Task Master",
+    "type": "Productivity",
+    "description": "Automatically prioritizes tasks and provides recommendations for completing them.",
+    "link": "https://aitaskmaster.com/",
+    "price": "$10 per month"
+  },
+  {
+    "name": "AI Fashion Forecast",
+    "type": "Fashion",
+    "description": "Predicts future fashion trends, helping you prepare your wardrobe for upcoming seasons.",
+    "link": "https://aifashionforecast.com/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "AI Sleep Analyzer",
+    "type": "Health",
+    "description": "Analyzes sleep quality and offers personalized recommendations for improving rest.",
+    "link": "https://aisleepanalyzer.com/",
+    "price": "$9 per month"
+  },
+  {
+    "name": "AI Creative Writer",
+    "type": "Text Generation",
+    "description": "Generates creative stories, poems, and other forms of literature upon request.",
+    "link": "https://aicreativewriter.com/",
+    "price": "$12 per month"
+  },
+  {
+    "name": "AI Mental Health Advisor",
+    "type": "Psychology",
+    "description": "Provides support on mental health issues and offers therapeutic exercises.",
+    "link": "https://aimentalhealthadvisor.com/",
+    "price": "$14 per month"
+  },
+  {
+    "name": "AI Language Translator",
+    "type": "Translation",
+    "description": "Provides accurate and fast translations of texts and dialogues between different languages.",
+    "link": "https://ailanguagetranslator.com/",
+    "price": "$5 per month"
+  },
+  {
+    "name": "AI Code Refactorer",
+    "type": "Programming",
+    "description": "Automatically improves code structure and quality for better readability and efficiency.",
+    "link": "https://aicoderefactorer.com/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "AI Storyteller",
+    "type": "Text Generation",
+    "description": "Generates original fairy tales, fables, and stories for children.",
+    "link": "https://aistoryteller.com/",
+    "price": "$8 per month"
+  },
+  {
+    "name": "AI Personal Assistant",
+    "type": "Productivity",
+    "description": "Organizes your day, helping manage tasks, reminders, and calendars.",
+    "link": "https://aipersonalassistant.com/",
+    "price": "$12 per month"
+  },
+  {
+    "name": "AI Mood Tracker",
+    "type": "Psychology",
+    "description": "Analyzes your emotions with AI and gives advice to improve your mood.",
+    "link": "https://aimoodtracker.com/",
+    "price": "$7 per month"
+  },
+  {
+    "name": "AI Custom Chatbot",
+    "type": "Bots",
+    "description": "Creates intelligent chatbots for various business tasks.",
+    "link": "https://aicustomchatbot.com/",
+    "price": "$18 per month"
+  },
+  {
+    "name": "AI Legal Advisor",
+    "type": "Law",
+    "description": "Provides legal advice and helps with document preparation.",
+    "link": "https://ailegaladvisor.com/",
+    "price": "$30 per month"
+  },
+  {
+    "name": "AI Custom Logo Maker",
+    "type": "Design",
+    "description": "Generates unique logos for brands and companies.",
+    "link": "https://aicustomlogomaker.com/",
+    "price": "$12 per month"
+  },
+  {
+    "name": "AI Travel Assistant",
+    "type": "Travel",
+    "description": "Helps plan trips, recommends places to visit, and local restaurants.",
+    "link": "https://aitravelassistant.com/",
+    "price": "$10 per month"
+  },
+  {
+    "name": "AI Language Mentor",
+    "type": "Languages",
+    "description": "Personal mentor for learning languages, with regular lessons and tests.",
+    "link": "https://ailanguagementor.com/",
+    "price": "$8 per month"
+  },
+  {
+    "name": "AI Meeting Scheduler",
+    "type": "Productivity",
+    "description": "Organizes your meetings and provides the optimal time for all participants.",
+    "link": "https://aimeetingscheduler.com/",
+    "price": "$5 per month"
+  },
+  {
+    "name": "AI Idea Generator",
+    "type": "Creativity",
+    "description": "Generates ideas for new projects, startups, and businesses.",
+    "link": "https://aiideagenerator.com/",
+    "price": "$7 per month"
+  },
+  {
+    "name": "AI Personal Stylist",
+    "type": "Fashion",
+    "description": "Creates a personalized style based on your preferences and trend recommendations.",
+    "link": "https://aipersonalstylist.com/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "AI Music Composer",
+    "type": "Music",
+    "description": "Creates original musical compositions based on your instructions.",
+    "link": "https://aimusiccomposer.com/",
+    "price": "$20 per month"
+  },
+  {
+    "name": "AI Stress Analyzer",
+    "type": "Health",
+    "description": "Determines stress level and provides relaxation recommendations.",
+    "link": "https://aistressanalyzer.com/",
+    "price": "$9 per month"
+  },
+  {
+    "name": "AI Video Game Designer",
+    "type": "Gaming",
+    "description": "Creates concepts for video games, including storyline, characters, and gameplay.",
+    "link": "https://aivideogamedesigner.com/",
+    "price": "$25 per month"
+  },
+  {
+    "name": "AI Daily Summary",
+    "type": "Productivity",
+    "description": "Provides a brief summary of your tasks, important events, and messages for the day.",
+    "link": "https://aidailysummary.com/",
+    "price": "$6 per month"
+  },
+  {
+    "name": "AI Email Optimizer",
+    "type": "Productivity",
+    "description": "Helps improve the structure and content of your emails for better impact.",
+    "link": "https://aiemailoptimizer.com/",
+    "price": "$10 per month"
+  },
+  {
+    "name": "AI Podcast Generator",
+    "type": "Media",
+    "description": "Automatically generates scripts for podcasts and produces audio files.",
+    "link": "https://aipodcastgenerator.com/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "AI Custom Workout Planner",
+    "type": "Health",
+    "description": "Generates personalized workout plans considering your physical capabilities and goals.",
+    "link": "https://aicustomworkoutplanner.com/",
+    "price": "$12 per month"
+  },
+  {
+    "name": "AI Home Decor Advisor",
+    "type": "Design",
+    "description": "Suggests decoration ideas for your home based on your style and budget.",
+    "link": "https://aihomedecoradvisor.com/",
+    "price": "$10 per month"
+  },
+  {
+    "name": "AI Public Speaking Coach",
+    "type": "Education",
+    "description": "Helps improve public speaking skills with tips on pronunciation and intonation.",
+    "link": "https://aipublicspeakingcoach.com/",
+    "price": "$20 per month"
+  },
+  {
+    "name": "AI Pet Care Advisor",
+    "type": "Pets",
+    "description": "Provides care recommendations for your pets, from nutrition to health.",
+    "link": "https://aipetcareadvisor.com/",
+    "price": "$8 per month"
+  },
+  {
+    "name": "AI Travel Expense Manager",
+    "type": "Finance",
+    "description": "Tracks travel expenses and helps stay within budget.",
+    "link": "https://aitravelexpensetracker.com/",
+    "price": "$12 per month"
+  },
+  {
+    "name": "AI Language Learning Partner",
+    "type": "Education",
+    "description": "Teaches new languages through interactive conversations and exercises.",
+    "link": "https://ailanguagelearningpartner.com/",
+    "price": "$10 per month"
+  },
+  {
+    "name": "AI Brainstorming Assistant",
+    "type": "Creativity",
+    "description": "Helps generate new ideas for businesses, projects, and creative tasks.",
+    "link": "https://aibrainstormingassistant.com/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "AI Motivation Coach",
+    "type": "Self-development",
+    "description": "Motivates you to achieve goals through positive reminders and tips.",
+    "link": "https://aimotivationcoach.com/",
+    "price": "$5 per month"
+  },
+  {
+    "name": "AI Fashion Designer",
+    "type": "Fashion",
+    "description": "Creates unique clothing design concepts based on your preferences and instructions.",
+    "link": "https://aifashiondesigner.com/",
+    "price": "$30 per month"
+  },
+  {
+    "name": "AI Mindfulness Coach",
+    "type": "Health",
+    "description": "Helps practice mindfulness through meditation and relaxation exercises.",
+    "link": "https://aimindfulnesscoach.com/",
+    "price": "$10 per month"
+  },
+  {
+    "name": "AI Content Moderator",
+    "type": "Security",
+    "description": "Automatically monitors and moderates content on websites and platforms.",
+    "link": "https://aicontentmoderator.com/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "AI Architecture Assistant",
+    "type": "Construction",
+    "description": "Generates building design projects based on your requirements and aesthetic preferences.",
+    "link": "https://aiarchitectureassistant.com/",
+    "price": "$25 per month"
+  },
+  {
+    "name": "AI Copywriting Assistant",
+    "type": "Marketing",
+    "description": "Helps create effective advertising texts and marketing campaigns.",
+    "link": "https://aicopywritingassistant.com/",
+    "price": "$20 per month"
+  },
+  {
+    "name": "AI Virtual Gardener",
+    "type": "Gardening",
+    "description": "Provides advice on plant care, including watering, lighting, and fertilizing.",
+    "link": "https://aivirtualgardener.com/",
+    "price": "$7 per month"
+  },
+  {
+    "name": "AI Budget Planner",
+    "type": "Finance",
+    "description": "Helps create a budget and optimize expenses based on your financial goals.",
+    "link": "https://aibudgetplanner.com/",
+    "price": "$9 per month"
+  },
+  {
+    "name": "AI Virtual Tutor",
+    "type": "Education",
+    "description": "Personalized lessons in math, languages, and other subjects with AI support.",
+    "link": "https://aivirtualtutor.com/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "AI Translation Assistant",
+    "type": "Languages",
+    "description": "Translates texts and documents from one language to another with high accuracy.",
+    "link": "https://aitranslationassistant.com/",
+    "price": "$8 per month"
+  },
+  {
+    "name": "AI Team Collaborator",
+    "type": "Productivity",
+    "description": "Helps teams work together by creating tasks and managing projects.",
+    "link": "https://aiteamcollaborator.com/",
+    "price": "$20 per month"
+  },
+  {
+    "name": "AI Brainstorming Bot",
+    "type": "Creativity",
+    "description": "Generates ideas and concepts for your business or project.",
+    "link": "https://aibrainstormingbot.com/",
+    "price": "$10 per month"
+  },
+  {
+    "name": "AI Contract Assistant",
+    "type": "Legal Services",
+    "description": "Automatically creates and checks legal contracts based on specified parameters.",
+    "link": "https://aicontractassistant.com/",
+    "price": "$25 per month"
+  },
+  {
+    "name": "AI Voice Modulator",
+    "type": "Audio",
+    "description": "Changes your voice in real-time to create various effects.",
+    "link": "https://aivoicemodulator.com/",
+    "price": "$5 per month"
+  },
+  {
+    "name": "AI Podcast Editor",
+    "type": "Media",
+    "description": "Edits your podcasts, adding sound effects, music interludes, and improving audio quality.",
+    "link": "https://aipodcasteditor.com/",
+    "price": "$12 per month"
+  },
+  {
+    "name": "AI Travel Guide",
+    "type": "Travel",
+    "description": "Suggests ideal routes and places to visit based on your preferences.",
+    "link": "https://aitravelguide.com/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "AI Financial Advisor",
+    "type": "Finance",
+    "description": "Provides recommendations for investments and financial strategies to achieve your goals.",
+    "link": "https://aifinancialadvisor.com/",
+    "price": "$30 per month"
+  },
+  {
+    "name": "AI Wedding Planner",
+    "type": "Event Planning",
+    "description": "Helps organize weddings by selecting venues, menus, and all event details.",
+    "link": "https://aiweddingplanner.com/",
+    "price": "$50 per month"
+  },
+  {
+    "name": "AI Language Pronunciation Coach",
+    "type": "Languages",
+    "description": "Improves your pronunciation in foreign languages by providing tips on pronunciation and intonation.",
+    "link": "https://ailanguagepronunciationcoach.com/",
+    "price": "$10 per month"
+  },
+  {
+    "name": "AI Custom T-shirt Design",
+    "type": "Design",
+    "description": "Creates custom designs for T-shirts and other clothing based on your ideas.",
+    "link": "https://aicustomtshirtdesign.com/",
+    "price": "$12 per month"
+  },
+  {
+    "name": "AI News Digest",
+    "type": "Media",
+    "description": "Provides brief summaries of important news across all areas of life.",
+    "link": "https://ainewsdigest.com/",
+    "price": "$8 per month"
+  },
+  {
+    "name": "AI Home Automation Planner",
+    "type": "Technology",
+    "description": "Automates your home by creating smart scenarios for various devices.",
+    "link": "https://aihomeautomationplanner.com/",
+    "price": "$18 per month"
+  },
+  {
+    "name": "AI Job Finder",
+    "type": "Career",
+    "description": "Helps find jobs by matching vacancies to your experience and skills.",
+    "link": "https://aijobfinder.com/",
+    "price": "$10 per month"
+  },
+  {
+    "name": "AI Content Enhancer",
+    "type": "Marketing",
+    "description": "Enhances text content using artificial intelligence, making it more attractive to the audience.",
+    "link": "https://aicontentenhancer.com/",
+    "price": "$20 per month"
+  },
+  {
+    "name": "AI Speech Therapist",
+    "type": "Health",
+    "description": "Helps improve pronunciation and learn various accents through regular training.",
+    "link": "https://aispeechtherapist.com/",
+    "price": "$25 per month"
+  },
+  {
+    "name": "AI DIY Assistant",
+    "type": "Home Services",
+    "description": "Provides step-by-step instructions for home projects and repairs.",
+    "link": "https://aidiassistant.com/",
+    "price": "$10 per month"
+  },
+  {
+    "name": "AI Virtual Concierge",
+    "type": "Tourism",
+    "description": "A personal assistant for travelers, offering recommendations for restaurants, hotels, and tours.",
+    "link": "https://aivirtualconcierge.com/",
+    "price": "$12 per month"
+  },
+  {
+    "name": "AI Recipe Generator",
+    "type": "Cooking",
+    "description": "Generates recipes based on available ingredients, considering dietary preferences and allergies.",
+    "link": "https://airecipegenerator.com/",
+    "price": "$8 per month"
+  },
+  {
+    "name": "AI Real Estate Advisor",
+    "type": "Real Estate",
+    "description": "Helps choose real estate according to budget, preferences, and location.",
+    "link": "https://airealestateadvisor.com/",
+    "price": "$30 per month"
+  },
+  {
+    "name": "AI Learning Path Planner",
+    "type": "Education",
+    "description": "Creates personalized learning paths for acquiring new skills and enhancing qualifications.",
+    "link": "https://ailearningpathplanner.com/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "AI Personal Chef",
+    "type": "Cooking",
+    "description": "Creates personalized menus with recipes and cooking recommendations.",
+    "link": "https://aipersonalchef.com/",
+    "price": "$18 per month"
+  },
+  {
+    "name": "AI Data Visualizer",
+    "type": "Analytics",
+    "description": "Transforms complex data into beautiful and understandable charts and diagrams.",
+    "link": "https://aidatavisualizer.com/",
+    "price": "$25 per month"
+  },
+  {
+    "name": "AI Freelance Finder",
+    "type": "Career",
+    "description": "Helps freelancers find projects that match their skills and experience.",
+    "link": "https://aifreelancefinder.com/",
+    "price": "$12 per month"
+  },
+  {
+    "name": "AI Writing Mentor",
+    "type": "Education",
+    "description": "Teaches how to improve writing skills by offering advice on text structure and style.",
+    "link": "https://aiwritingmentor.com/",
+    "price": "$18 per month"
+  },
+  {
+    "name": "AI Virtual Assistant for Seniors",
+    "type": "Health",
+    "description": "Provides personalized assistance for elderly people, reminding them about medications and other important tasks.",
+    "link": "https://aivirtualassistantforseniors.com/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "AI Fashion Stylist",
+    "type": "Fashion",
+    "description": "Creates stylish outfits based on your wardrobe and preferences.",
+    "link": "https://aifashionstylist.com/",
+    "price": "$20 per month"
+  },
+  {
+    "name": "AI Social Media Strategist",
+    "type": "Marketing",
+    "description": "Analyzes your target audience and develops strategies for successful promotion on social media.",
+    "link": "https://aisocialmediastrategist.com/",
+    "price": "$25 per month"
+  },
+  {
+    "name": "AI Financial Planner",
+    "type": "Finance",
+    "description": "Helps organize personal finances and create a strategy for achieving financial goals.",
+    "link": "https://aifinancialplanner.com/",
+    "price": "$30 per month"
+  },
+  {
+    "name": "AI Time Management Assistant",
+    "type": "Productivity",
+    "description": "Helps organize your day, tracks important tasks, and provides recommendations for improving productivity.",
+    "link": "https://aitimemanagementassistant.com/",
+    "price": "$10 per month"
+  },
+  {
+    "name": "AI Job Interview Coach",
+    "type": "Career",
+    "description": "Prepares you for interviews by providing tips on answering questions and improving communication skills.",
+    "link": "https://aijobinterviewcoach.com/",
+    "price": "$18 per month"
+  },
+  {
+    "name": "AI Home Renovation Planner",
+    "type": "Construction",
+    "description": "Helps plan renovations by providing recommendations on design, materials, and costs.",
+    "link": "https://aihomerenovationplanner.com/",
+    "price": "$22 per month"
+  },
+  {
+    "name": "AI Voiceover Generator",
+    "type": "Media Production",
+    "description": "Generates voiceovers for videos, games, or presentations based on text.",
+    "link": "https://aivoiceovergenerator.com/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "AI Personal Stylist for Men",
+    "type": "Fashion",
+    "description": "Creates stylish and practical outfits for men, helping with clothing and accessory choices.",
+    "link": "https://aipersonalstylistformen.com/",
+    "price": "$20 per month"
+  },
+  {
+    "name": "AI Sleep Advisor",
+    "type": "Health",
+    "description": "Helps improve sleep quality by offering recommendations on sleep routines and the surrounding environment.",
+    "link": "https://aisleepadvisor.com/",
+    "price": "$12 per month"
+  },
+  {
+    "name": "AI Auto Translation Service",
+    "type": "Language",
+    "description": "Provides automatic translation of texts and conversations in multiple languages.",
+    "link": "https://aiautotranslationservice.com/",
+    "price": "$10 per month"
+  },
+  {
+    "name": "AI Podcast Researcher",
+    "type": "Media Production",
+    "description": "Helps research podcast topics, offering interesting facts and sources.",
+    "link": "https://aipodcastresearcher.com/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "AI SEO Expert",
+    "type": "Marketing",
+    "description": "Optimizes your content for search engines, boosting visibility and traffic.",
+    "link": "https://aiseoexpert.com/",
+    "price": "$20 per month"
+  },
+  {
+    "name": "AI Writing Assistant for Authors",
+    "type": "Literature",
+    "description": "Offers ideas and assists with planning and editing texts for book authors.",
+    "link": "https://aiwritingassistantforauthors.com/",
+    "price": "$18 per month"
+  },
+  {
+    "name": "AI Home Organizer",
+    "type": "Home Services",
+    "description": "Helps organize home space by providing ideas for optimizing storage and cleaning.",
+    "link": "https://aihomeorganizer.com/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "AI Fitness Coach",
+    "type": "Health",
+    "description": "Personalized workouts and nutrition advice based on your goals and physical condition.",
+    "link": "https://aifitnesscoach.com/",
+    "price": "$20 per month"
+  },
+  {
+    "name": "AI News Curator",
+    "type": "Media",
+    "description": "Selects and offers news based on user interests, enhancing the flow of information.",
+    "link": "https://ainewscurator.com/",
+    "price": "$12 per month"
+  },
+  {
+    "name": "AI Language Exchange",
+    "type": "Education",
+    "description": "A platform for practicing foreign languages with native speakers via AI connections.",
+    "link": "https://ailanguageexchange.com/",
+    "price": "$18 per month"
+  },
+  {
+    "name": "AI Pet Care Assistant",
+    "type": "Health",
+    "description": "Provides pet care advice, including feeding, training, and medical recommendations.",
+    "link": "https://aipetcareassistant.com/",
+    "price": "$10 per month"
+  },
+  {
+    "name": "AI Career Navigator",
+    "type": "Career",
+    "description": "Helps plan a career by suggesting steps for development, skill improvement, and opportunity search.",
+    "link": "https://aicareernavigator.com/",
+    "price": "$25 per month"
+  },
+  {
+    "name": "AI Virtual Travel Guide",
+    "type": "Tourism",
+    "description": "Offers personalized travel routes and tours to popular and lesser-known places.",
+    "link": "https://aivirtualtravelguide.com/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "AI Video Editor",
+    "type": "Media Production",
+    "description": "Automatically edits videos, improving quality and adding effects and transitions.",
+    "link": "https://aivideoeditor.com/",
+    "price": "$22 per month"
+  },
+  {
+    "name": "AI Digital Artist",
+    "type": "Art",
+    "description": "Creates original digital paintings, illustrations, and designs based on text and preferences.",
+    "link": "https://aidigitalartist.com/",
+    "price": "$30 per month"
+  },
+  {
+    "name": "AI Book Recommendation",
+    "type": "Literature",
+    "description": "Recommends books based on your preferences and interests.",
+    "link": "https://aibookrecommendation.com/",
+    "price": "$10 per month"
+  },
+  {
+    "name": "AI Meditation Guide",
+    "type": "Health",
+    "description": "Provides audio guides and tips for meditation to help relax and improve mental well-being.",
+    "link": "https://aimeditationguide.com/",
+    "price": "$12 per month"
+  },
+  {
+    "name": "AI Virtual Home Stager",
+    "type": "Real Estate",
+    "description": "Individually selects styles and furniture for virtual staging of homes and apartments for sale.",
+    "link": "https://aivirtualhomestager.com/",
+    "price": "$25 per month"
+  },
+  {
+    "name": "AI Photo Enhancer",
+    "type": "Media Production",
+    "description": "Enhances photos, improves their quality, and restores damaged images.",
+    "link": "https://aiphotoenhancer.com/",
+    "price": "$18 per month"
+  },
+  {
+    "name": "AI Speech Writer",
+    "type": "Literature",
+    "description": "Creates speeches based on key ideas and target audiences.",
+    "link": "https://aispeechwriter.com/",
+    "price": "$20 per month"
+  },
+  {
+    "name": "AI Business Idea Generator",
+    "type": "Entrepreneurship",
+    "description": "Generates business ideas based on current trends, needs, and personal interests.",
+    "link": "https://aibusinessideagenerator.com/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "AI Event Planner",
+    "type": "Services",
+    "description": "Helps organize events, from planning to coordinating all the details.",
+    "link": "https://aieventplanner.com/",
+    "price": "$18 per month"
+  },
+  {
+    "name": "AI Personal Assistant for Writers",
+    "type": "Literature",
+    "description": "Helps writers create outlines, formulate ideas, and edit texts.",
+    "link": "https://aipersonalassistantforwriters.com/",
+    "price": "$25 per month"
+  },
+  {
+    "name": "AI 3D Model Creator",
+    "type": "Design",
+    "description": "Generates 3D models for use in games, VR, or other applications.",
+    "link": "https://ai3dmodelcreator.com/",
+    "price": "$30 per month"
+  },
+  {
+    "name": "AI Real-Time Translator",
+    "type": "Technology",
+    "description": "Provides real-time translation for conversations in various languages.",
+    "link": "https://airealtimetranslator.com/",
+    "price": "$20 per month"
+  },
+  {
+    "name": "AI Talent Scout",
+    "type": "Career",
+    "description": "Searches for talented specialists, offering employers suitable candidates.",
+    "link": "https://aitalentscout.com/",
+    "price": "$25 per month"
+  },
+  {
+    "name": "AI Personal Fitness Tracker",
+    "type": "Health",
+    "description": "Tracks physical activity, recommends workouts, and analyzes progress.",
+    "link": "https://aipersonalfitnesstracker.com/",
+    "price": "$18 per month"
+  },
+  {
+    "name": "AI Memory Trainer",
+    "type": "Education",
+    "description": "Helps train memory by offering exercises to improve cognitive skills.",
+    "link": "https://aimemorytrainer.com/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "AI Home Security Advisor",
+    "type": "Security",
+    "description": "Recommends ways to enhance home security, including devices and systems.",
+    "link": "https://aihomesecurityadvisor.com/",
+    "price": "$20 per month"
+  },
+  {
+    "name": "AI Market Trend Predictor",
+    "type": "Analytics",
+    "description": "Predicts market trends based on data and AI algorithms.",
+    "link": "https://aimarkettrendpredictor.com/",
+    "price": "$30 per month"
+  },
+  {
+    "name": "AI Time Tracker",
+    "type": "Productivity",
+    "description": "Tracks time spent on various tasks, helping improve time management.",
+    "link": "https://aitimetracker.com/",
+    "price": "$10 per month"
+  },
+  {
+    "name": "AI Sound Effects Generator",
+    "type": "Media Production",
+    "description": "Creates sound effects for games, movies, and audio projects.",
+    "link": "https://aisoundeffects.com/",
+    "price": "$20 per month"
+  },
+  {
+    "name": "AI Fitness Diet Planner",
+    "type": "Health",
+    "description": "Creates personalized meal plans based on fitness goals and dietary preferences.",
+    "link": "https://aifitnessdietplanner.com/",
+    "price": "$18 per month"
+  },
+  {
+    "name": "AI Dream Interpreter",
+    "type": "Psychology",
+    "description": "Analyzes dreams and provides interpretations based on psychological and cultural theories.",
+    "link": "https://aidreaminterpreter.com/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "AI Cooking Assistant",
+    "type": "Culinary",
+    "description": "Suggests recipes and cooking tips based on available ingredients.",
+    "link": "https://aicookingassistant.com/",
+    "price": "$12 per month"
+  },
+  {
+    "name": "AI Sleep Optimizer",
+    "type": "Health",
+    "description": "Helps improve sleep quality with recommendations on sleep routines and environment.",
+    "link": "https://aisleepoptimizer.com/",
+    "price": "$18 per month"
+  },
+  {
+    "name": "AI Fashion Consultant",
+    "type": "Fashion",
+    "description": "Provides personalized style and clothing combination advice.",
+    "link": "https://aifashionconsultant.com/",
+    "price": "$20 per month"
+  },
+  {
+    "name": "AI Dream House Designer",
+    "type": "Design",
+    "description": "Creates house and apartment designs based on user preferences and current trends.",
+    "link": "https://aidreamhousedesigner.com/",
+    "price": "$25 per month"
+  },
+  {
+    "name": "AI Virtual Therapist",
+    "type": "Psychology",
+    "description": "Provides psychotherapy sessions using cognitive-behavioral therapy methods.",
+    "link": "https://aivirtualtherapist.com/",
+    "price": "$30 per month"
+  },
+  {
+    "name": "AI Travel Planner",
+    "type": "Tourism",
+    "description": "Creates personalized travel itineraries based on budget and preferences.",
+    "link": "https://aitravelplanner.com/",
+    "price": "$20 per month"
+  },
+  {
+    "name": "AI Goal Tracker",
+    "type": "Productivity",
+    "description": "Tracks and helps achieve long-term and short-term goals with reminders and advice.",
+    "link": "https://aigoaltracker.com/",
+    "price": "$12 per month"
+  },
+  {
+    "name": "AI Virtual Chef",
+    "type": "Culinary",
+    "description": "Creates personalized recipes considering dietary restrictions and preferences.",
+    "link": "https://aivirtualchef.com/",
+    "price": "$18 per month"
+  },
+  {
+    "name": "AI Child Learning Assistant",
+    "type": "Education",
+    "description": "Helps children learn new topics using gamified methods and adaptive materials.",
+    "link": "https://aichildlearningassistant.com/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "AI Personal Finance Advisor",
+    "type": "Finance",
+    "description": "Offers personalized recommendations on managing personal finances and investments.",
+    "link": "https://aipersonalfinanceadvisor.com/",
+    "price": "$25 per month"
+  },
+  {
+    "name": "AI Virtual Shopping Assistant",
+    "type": "Retail",
+    "description": "Helps users find and purchase products based on preferences and reviews.",
+    "link": "https://aivirtualshoppingassistant.com/",
+    "price": "$10 per month"
+  },
+  {
+    "name": "AI Virtual Music Composer",
+    "type": "Music",
+    "description": "Creates original music for movies, games, and personal projects.",
+    "link": "https://aivirtualmusiccomposer.com/",
+    "price": "$30 per month"
+  },
+  {
+    "name": "AI Story Generator",
+    "type": "Literature",
+    "description": "Generates original stories based on provided plot ideas and genres.",
+    "link": "https://aistorygenerator.com/",
+    "price": "$12 per month"
+  },
+  {
+    "name": "AI Content Creator",
+    "type": "Media",
+    "description": "Creates original content for blogs, social media, and websites.",
+    "link": "https://aicontentcreator.com/",
+    "price": "$20 per month"
+  },
+  {
+    "name": "AI Movie Script Generator",
+    "type": "Film",
+    "description": "Generates scripts for movies, TV shows, and commercials.",
+    "link": "https://aimoviescriptgenerator.com/",
+    "price": "$25 per month"
+  },
+  {
+    "name": "AI Custom Jewelry Designer",
+    "type": "Design",
+    "description": "Creates unique jewelry designs based on user preferences.",
+    "link": "https://aicustomjewelrydesigner.com/",
+    "price": "$35 per month"
+  },
+  {
+    "name": "AI Social Media Manager",
+    "type": "Marketing",
+    "description": "Manages social media and creates content for effective promotion.",
+    "link": "https://aisocialmediamanager.com/",
+    "price": "$40 per month"
+  },
+  {
+    "name": "AI Property Finder",
+    "type": "Real Estate",
+    "description": "Finds the best housing and real estate options based on specified criteria.",
+    "link": "https://aipropertyfinder.com/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "AI Voiceover Artist",
+    "type": "Media Production",
+    "description": "Creates voiceovers for videos, audiobooks, and presentations.",
+    "link": "https://aivoiceoverartist.com/",
+    "price": "$25 per month"
+  },
+  {
+    "name": "AI Fitness Tracker",
+    "type": "Health",
+    "description": "Tracks physical activity, analyzes data, and provides personalized workouts.",
+    "link": "https://aifitnesstracker.com/",
+    "price": "$20 per month"
+  },
+  {
+    "name": "AI Art Critic",
+    "type": "Art",
+    "description": "Evaluates artwork and provides constructive criticism.",
+    "link": "https://aiartcritic.com/",
+    "price": "$15 per month"
+  },
+  {
+    "name": "AI Research Assistant",
+    "type": "Education",
+    "description": "Assists with research by analyzing data and providing results.",
+    "link": "https://airesearchassistant.com/",
+    "price": "$20 per month"
+  },
+  {
+    "name": "AI Custom T-Shirt Designer",
+    "type": "Design",
+    "description": "Creates unique t-shirt designs based on customer preferences.",
+    "link": "https://aicustomtshirtdesigner.com/",
+    "price": "$18 per month"
+  },
+  {
+    "name": "AI Chatbot Builder",
+    "type": "Technology",
+    "description": "Allows you to create personalized chatbots for business and personal projects.",
+    "link": "https://aichatbotbuilder.com/",
+    "price": "$22 per month"
+  },
+  {
+    "name": "VividMind",
+    "type": "AI Assistant",
+    "description": "An AI-powered assistant that helps with productivity by organizing your tasks and suggesting optimal work routines.",
+    "link": "https://vividmind.com/",
+    "price": "Free"
+  },
+  {
+    "name": "SynthWave AI",
+    "type": "Music Creation",
+    "description": "Generate unique synthwave tracks based on your mood and preferences.",
+    "link": "https://synthwaveai.com/",
+    "price": "Free, with premium options"
+  },
+  {
+    "name": "SmartStyle",
+    "type": "Fashion AI",
+    "description": "An AI that provides personalized fashion recommendations based on your style preferences and current trends.",
+    "link": "https://smartstyle.com/",
+    "price": "Free trial, subscription 15$ per month"
+  },
+  {
+    "name": "NeuroFit",
+    "type": "Health & Fitness",
+    "description": "AI-powered personal trainer that adapts your workout routine based on progress and goals.",
+    "link": "https://neurofit.com/",
+    "price": "8$ per month"
+  },
+  {
+    "name": "ImageCraft",
+    "type": "Graphic Design",
+    "description": "AI-powered tool that assists in creating professional-grade visuals, logos, and illustrations.",
+    "link": "https://imagecraft.com/",
+    "price": "Free basic version, subscription 15$ per month"
+  },
+  {
+    "name": "EchoWrite",
+    "type": "Writing Assistant",
+    "description": "AI tool that helps authors with writing, editing, and refining their content by suggesting improvements.",
+    "link": "https://echowrite.com/",
+    "price": "Free"
+  },
+  {
+    "name": "PlanIt AI",
+    "type": "Productivity",
+    "description": "An AI planner that organizes your schedule, prioritizes tasks, and reminds you of deadlines.",
+    "link": "https://planit.ai/",
+    "price": "Free"
+  },
+  {
+    "name": "AutoVision",
+    "type": "Image Enhancement",
+    "description": "Enhance and restore your images with AI, removing noise, improving resolution, and applying artistic filters.",
+    "link": "https://autovision.com/",
+    "price": "40$ per month"
+  },
+  {
+    "name": "VoiceCraft",
+    "type": "Voice Synthesis",
+    "description": "Create realistic and emotive voiceovers for any type of content using AI-driven speech synthesis.",
+    "link": "https://voicecraft.com/",
+    "price": "15$ per month"
+  },
+  {
+    "name": "DeepTranslate",
+    "type": "Translation",
+    "description": "Advanced neural network for real-time translation with context-sensitive accuracy.",
+    "link": "https://deeptranslate.com/",
+    "price": "8.99$ per month"
+  },
+  {
+    "name": "BrandGen",
+    "type": "Branding",
+    "description": "AI that generates unique brand names, logos, and taglines tailored to your business.",
+    "link": "https://brandgen.com/",
+    "price": "Free"
+  },
+  {
+    "name": "MoodMuse",
+    "type": "Music Therapy",
+    "description": "Generate therapeutic music based on your emotional state using AI.",
+    "link": "https://moodmuse.com/",
+    "price": "Free with limited features, premium 20$ per month"
+  },
+  {
+    "name": "OptiStock",
+    "type": "Stock Market Analysis",
+    "description": "AI tool that predicts stock market trends and offers personalized investment advice.",
+    "link": "https://optistock.com/",
+    "price": "Free"
+  },
+  {
+    "name": "StoryCraft AI",
+    "type": "Storytelling",
+    "description": "Generate compelling stories, character dialogues, and plot structures using AI.",
+    "link": "https://storycraft.ai/",
+    "price": "Free trial, premium 16$ per month"
+  },
+  {
+    "name": "TutorBot",
+    "type": "Education",
+    "description": "AI-powered tutor that provides personalized learning experiences in a variety of subjects.",
+    "link": "https://tutorbot.com/",
+    "price": "25$ per month"
+  },
+  {
+    "name": "Visionary AI",
+    "type": "Art Generator",
+    "description": "Create stunning digital art and illustrations with AI based on text prompts or your own ideas.",
+    "link": "https://visionary.ai/",
+    "price": "10$ per month"
+  },
+  {
+    "name": "HealthMate",
+    "type": "Health Tracking",
+    "description": "AI-driven health tracker that monitors your vitals, fitness progress, and sleep patterns.",
+    "link": "https://healthmate.com/",
+    "price": "Free"
+  },
+  {
+    "name": "SmartSummarizer",
+    "type": "Content Summarization",
+    "description": "Summarize articles, research papers, and news quickly using AI.",
+    "link": "https://smartsummarizer.com/",
+    "price": "Free"
+  },
+  {
+    "name": "EchoTune",
+    "type": "Music Creation",
+    "description": "Create music tracks from scratch or refine existing melodies using AI.",
+    "link": "https://echotune.com/",
+    "price": "Free"
+  },
+  {
+    "name": "AutoDesign AI",
+    "type": "Graphic Design",
+    "description": "Generate website layouts, marketing materials, and product designs with AI.",
+    "link": "https://autodesignai.com/",
+    "price": "Free"
+  },
+  {
+    "name": "HomeBot AI",
+    "type": "Home Automation",
+    "description": "AI-powered assistant that helps manage and automate home devices, schedules, and preferences.",
+    "link": "https://homebot.ai/",
+    "price": "Free"
+  },
+  {
+    "name": "MediaMonitor",
+    "type": "Social Media Analysis",
+    "description": "Track social media mentions, analyze sentiment, and generate reports with AI.",
+    "link": "https://mediamonitor.com/",
+    "price": "15$ per month"
+  },
+  {
+    "name": "StoryScribe AI",
+    "type": "Story Creation",
+    "description": "Generate interactive stories with personalized characters and outcomes using AI.",
+    "link": "https://storyscribe.ai/",
+    "price": "Free"
+  },
+  {
+    "name": "FinanceSense",
+    "type": "Financial Planning",
+    "description": "AI-driven financial planner to help with budgeting, investing, and saving money.",
+    "link": "https://financesense.com/",
+    "price": "Free"
+  },
+  {
+    "name": "SkillForge",
+    "type": "Skill Development",
+    "description": "AI-based tool to recommend courses, track your learning progress, and help you upskill efficiently.",
+    "link": "https://skillforge.com/",
+    "price": "Free"
+  },
+  {
+    "name": "GameForge AI",
+    "type": "Game Development",
+    "description": "AI assistant for indie game developers that helps with level design, character creation, and coding.",
+    "link": "https://gameforgeai.com/",
+    "price": "Free"
+  },
+  {
+    "name": "TalentScout AI",
+    "type": "Recruitment",
+    "description": "AI-driven recruitment tool that matches candidates to job descriptions and streamlines the hiring process.",
+    "link": "https://talentscout.ai/",
+    "price": "10$ per month"
+  },
+  {
+    "name": "StoryMixer",
+    "type": "Content Creation",
+    "description": "Create multimedia content such as videos, stories, and podcasts using AI tools.",
+    "link": "https://storymixer.com/",
+    "price": "Free"
+  },
+  {
+    "name": "NurtureBot",
+    "type": "Customer Service",
+    "description": "AI assistant that helps automate customer interactions, lead nurturing, and follow-ups.",
+    "link": "https://nurturebot.com/",
+    "price": "Free"
+  },
+  {
+    "name": "ImageBot",
+    "type": "Image Editing",
+    "description": "AI tool for advanced photo editing, color correction, and visual effects.",
+    "link": "https://imagebot.com/",
+    "price": "15$ per month"
+  },
+  {
+    "name": "Loviskop",
+    "type": "VR",
+    "description": "Loviskop is an AI-powered VR tool designed for advanced photo editing, color correction, and creating stunning visual effects.",
+    "link": "https://loviskop.com/",
+    "price": "10$ per month"
+  }
+]
