@@ -91,7 +91,10 @@ export default function DataTable() {
         <div className="wrapper">
             <div className="top-line">
                 <div className="top-line-logo">
-                    <img src="../public/logo.svg" className="logo" />
+                <img
+                        src={`${(import.meta as any).env.BASE_URL}logo.svg`}
+                        className="logo"
+                    />
                     <p style={{ color: "#fff" }}>Aish</p>
                 </div>
                 <div
