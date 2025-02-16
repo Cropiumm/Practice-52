@@ -4,16 +4,14 @@ import "./style.css";
 import { IoHome } from "react-icons/io5";
 import { LuChartSpline } from "react-icons/lu";
 import { BsFillTelephoneFill } from "react-icons/bs";
-import { useEffect, useState } from "react";
-import servicesUA from "../servicesUA.json";
-import servicesEN from "../servicesEN.json";
+import { useState } from "react";
+import services from "../services.json";
 
 const paginationModel = { page: 0, pageSize: 25 };
 
 export default function DataTable() {
     const [isActive, setIsActive] = useState("home");
     const [language, setLanguage] = useState(localStorage.getItem("language"));
-    const [rows, setRows] = useState<unknown>([]);
 
     const columns: GridColDef[] = [
         {
@@ -30,14 +28,14 @@ export default function DataTable() {
             flex: 1,
         },
         {
-            field: "type",
+            field: language === "ua" ? "typeUA" : "typeEN",
             headerName: language === "ua" ? "Тип" : "Type",
             cellClassName: "wrap-text",
             minWidth: 130,
             flex: 1,
         },
         {
-            field: "description",
+            field: language === "ua" ? "descriptionUA" : "descriptionEN",
             headerName: language === "ua" ? "Опис" : "Description",
             sortable: false,
             cellClassName: "wrap-text",
@@ -64,34 +62,22 @@ export default function DataTable() {
             },
         },
         {
-            field: "price",
+            field: language === "ua" ? "priceUA" : "priceEN",
             headerName: language === "ua" ? "Ціна" : "Price",
             minWidth: 110,
             flex: 2,
         },
     ];
 
-    useEffect(() => {
-        if (language === "ua") {
-            setRows(
-                servicesUA.map((service, id) => {
-                    return { ...service, id: ++id };
-                }),
-            );
-        } else {
-            setRows(
-                servicesEN.map((service, id) => {
-                    return { ...service, id: ++id };
-                }),
-            );
-        }
-    }, [language]);
+    const rows = services.map((service, id) => {
+        return { ...service, id: ++id };
+    });
 
     return (
         <div className="wrapper">
             <div className="top-line">
                 <div className="top-line-logo">
-                <img
+                    <img
                         src={`${(import.meta as any).env.BASE_URL}logo.svg`}
                         className="logo"
                     />
